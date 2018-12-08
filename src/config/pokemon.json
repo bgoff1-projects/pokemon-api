@@ -1,0 +1,6002 @@
+{
+  "pokemon": [
+    {
+      "name": "bulbasaur",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 1
+    },
+    {
+      "name": "ivysaur",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 2
+    },
+    {
+      "name": "venusaur",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 3
+    },
+    {
+      "name": "charmander",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 4
+    },
+    {
+      "name": "charmeleon",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 5
+    },
+    {
+      "name": "charizard",
+      "types": [
+        "flying",
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 6
+    },
+    {
+      "name": "squirtle",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 7
+    },
+    {
+      "name": "wartortle",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 8
+    },
+    {
+      "name": "blastoise",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 9
+    },
+    {
+      "name": "caterpie",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 10
+    },
+    {
+      "name": "metapod",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 11
+    },
+    {
+      "name": "butterfree",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 12
+    },
+    {
+      "name": "weedle",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 13
+    },
+    {
+      "name": "kakuna",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 14
+    },
+    {
+      "name": "beedrill",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 15
+    },
+    {
+      "name": "pidgey",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 16
+    },
+    {
+      "name": "pidgeotto",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 17
+    },
+    {
+      "name": "pidgeot",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 18
+    },
+    {
+      "name": "rattata",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 19
+    },
+    {
+      "name": "raticate",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 20
+    },
+    {
+      "name": "spearow",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 21
+    },
+    {
+      "name": "fearow",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 22
+    },
+    {
+      "name": "ekans",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 23
+    },
+    {
+      "name": "arbok",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 24
+    },
+    {
+      "name": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 25
+    },
+    {
+      "name": "raichu",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 26
+    },
+    {
+      "name": "sandshrew",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 27
+    },
+    {
+      "name": "sandslash",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 28
+    },
+    {
+      "name": "nidoran-f",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 29
+    },
+    {
+      "name": "nidorina",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 30
+    },
+    {
+      "name": "nidoqueen",
+      "types": [
+        "ground",
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 31
+    },
+    {
+      "name": "nidoran-m",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 32
+    },
+    {
+      "name": "nidorino",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 33
+    },
+    {
+      "name": "nidoking",
+      "types": [
+        "ground",
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 34
+    },
+    {
+      "name": "clefairy",
+      "types": [
+        "fairy"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 35
+    },
+    {
+      "name": "clefable",
+      "types": [
+        "fairy"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 36
+    },
+    {
+      "name": "vulpix",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 37
+    },
+    {
+      "name": "ninetales",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 38
+    },
+    {
+      "name": "jigglypuff",
+      "types": [
+        "fairy",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 39
+    },
+    {
+      "name": "wigglytuff",
+      "types": [
+        "fairy",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 40
+    },
+    {
+      "name": "zubat",
+      "types": [
+        "flying",
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 41
+    },
+    {
+      "name": "golbat",
+      "types": [
+        "flying",
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 42
+    },
+    {
+      "name": "oddish",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 43
+    },
+    {
+      "name": "gloom",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 44
+    },
+    {
+      "name": "vileplume",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 45
+    },
+    {
+      "name": "paras",
+      "types": [
+        "grass",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 46
+    },
+    {
+      "name": "parasect",
+      "types": [
+        "grass",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 47
+    },
+    {
+      "name": "venonat",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 48
+    },
+    {
+      "name": "venomoth",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 49
+    },
+    {
+      "name": "diglett",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 50
+    },
+    {
+      "name": "dugtrio",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 51
+    },
+    {
+      "name": "meowth",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 52
+    },
+    {
+      "name": "persian",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 53
+    },
+    {
+      "name": "psyduck",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 54
+    },
+    {
+      "name": "golduck",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 55
+    },
+    {
+      "name": "mankey",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 56
+    },
+    {
+      "name": "primeape",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 57
+    },
+    {
+      "name": "growlithe",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 58
+    },
+    {
+      "name": "arcanine",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 59
+    },
+    {
+      "name": "poliwag",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 60
+    },
+    {
+      "name": "poliwhirl",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 61
+    },
+    {
+      "name": "poliwrath",
+      "types": [
+        "fighting",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 62
+    },
+    {
+      "name": "abra",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 63
+    },
+    {
+      "name": "kadabra",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 64
+    },
+    {
+      "name": "alakazam",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 65
+    },
+    {
+      "name": "machop",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 66
+    },
+    {
+      "name": "machoke",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 67
+    },
+    {
+      "name": "machamp",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 68
+    },
+    {
+      "name": "bellsprout",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 69
+    },
+    {
+      "name": "weepinbell",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 70
+    },
+    {
+      "name": "victreebel",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 71
+    },
+    {
+      "name": "tentacool",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 72
+    },
+    {
+      "name": "tentacruel",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 73
+    },
+    {
+      "name": "geodude",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 74
+    },
+    {
+      "name": "graveler",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 75
+    },
+    {
+      "name": "golem",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 76
+    },
+    {
+      "name": "ponyta",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 77
+    },
+    {
+      "name": "rapidash",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 78
+    },
+    {
+      "name": "slowpoke",
+      "types": [
+        "psychic",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 79
+    },
+    {
+      "name": "slowbro",
+      "types": [
+        "psychic",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 80
+    },
+    {
+      "name": "magnemite",
+      "types": [
+        "steel",
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 81
+    },
+    {
+      "name": "magneton",
+      "types": [
+        "steel",
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 82
+    },
+    {
+      "name": "farfetchd",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 83
+    },
+    {
+      "name": "doduo",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 84
+    },
+    {
+      "name": "dodrio",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 85
+    },
+    {
+      "name": "seel",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 86
+    },
+    {
+      "name": "dewgong",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 87
+    },
+    {
+      "name": "grimer",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 88
+    },
+    {
+      "name": "muk",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 89
+    },
+    {
+      "name": "shellder",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 90
+    },
+    {
+      "name": "cloyster",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 91
+    },
+    {
+      "name": "gastly",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 92
+    },
+    {
+      "name": "haunter",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 93
+    },
+    {
+      "name": "gengar",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 94
+    },
+    {
+      "name": "onix",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 95
+    },
+    {
+      "name": "drowzee",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 96
+    },
+    {
+      "name": "hypno",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 97
+    },
+    {
+      "name": "krabby",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 98
+    },
+    {
+      "name": "kingler",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 99
+    },
+    {
+      "name": "voltorb",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 100
+    },
+    {
+      "name": "electrode",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 101
+    },
+    {
+      "name": "exeggcute",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 102
+    },
+    {
+      "name": "exeggutor",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 103
+    },
+    {
+      "name": "cubone",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 104
+    },
+    {
+      "name": "marowak",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 105
+    },
+    {
+      "name": "hitmonlee",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 106
+    },
+    {
+      "name": "hitmonchan",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 107
+    },
+    {
+      "name": "lickitung",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 108
+    },
+    {
+      "name": "koffing",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 109
+    },
+    {
+      "name": "weezing",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 110
+    },
+    {
+      "name": "rhyhorn",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 111
+    },
+    {
+      "name": "rhydon",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 112
+    },
+    {
+      "name": "chansey",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 113
+    },
+    {
+      "name": "tangela",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 114
+    },
+    {
+      "name": "kangaskhan",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 115
+    },
+    {
+      "name": "horsea",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 116
+    },
+    {
+      "name": "seadra",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 117
+    },
+    {
+      "name": "goldeen",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 118
+    },
+    {
+      "name": "seaking",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 119
+    },
+    {
+      "name": "staryu",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 120
+    },
+    {
+      "name": "starmie",
+      "types": [
+        "psychic",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 121
+    },
+    {
+      "name": "mr-mime",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 122
+    },
+    {
+      "name": "scyther",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 123
+    },
+    {
+      "name": "jynx",
+      "types": [
+        "psychic",
+        "ice"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 124
+    },
+    {
+      "name": "electabuzz",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 125
+    },
+    {
+      "name": "magmar",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 126
+    },
+    {
+      "name": "pinsir",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn"
+      ],
+      "generation": 1,
+      "number": 127
+    },
+    {
+      "name": "tauros",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 128
+    },
+    {
+      "name": "magikarp",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 129
+    },
+    {
+      "name": "gyarados",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 130
+    },
+    {
+      "name": "lapras",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 131
+    },
+    {
+      "name": "ditto",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 132
+    },
+    {
+      "name": "eevee",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 133
+    },
+    {
+      "name": "vaporeon",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 134
+    },
+    {
+      "name": "jolteon",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 135
+    },
+    {
+      "name": "flareon",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 136
+    },
+    {
+      "name": "porygon",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 137
+    },
+    {
+      "name": "omanyte",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 138
+    },
+    {
+      "name": "omastar",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 139
+    },
+    {
+      "name": "kabuto",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 140
+    },
+    {
+      "name": "kabutops",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 141
+    },
+    {
+      "name": "aerodactyl",
+      "types": [
+        "flying",
+        "rock"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 142
+    },
+    {
+      "name": "snorlax",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "kanto",
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 1,
+      "number": 143
+    },
+    {
+      "name": "articuno",
+      "types": [
+        "flying",
+        "ice"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 144
+    },
+    {
+      "name": "zapdos",
+      "types": [
+        "flying",
+        "electric"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 145
+    },
+    {
+      "name": "moltres",
+      "types": [
+        "flying",
+        "fire"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 146
+    },
+    {
+      "name": "dratini",
+      "types": [
+        "dragon"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 147
+    },
+    {
+      "name": "dragonair",
+      "types": [
+        "dragon"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 148
+    },
+    {
+      "name": "dragonite",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 149
+    },
+    {
+      "name": "mewtwo",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 150
+    },
+    {
+      "name": "mew",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "kanto",
+        "johto"
+      ],
+      "generation": 1,
+      "number": 151
+    },
+    {
+      "name": "chikorita",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 152
+    },
+    {
+      "name": "bayleef",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 153
+    },
+    {
+      "name": "meganium",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 154
+    },
+    {
+      "name": "cyndaquil",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 155
+    },
+    {
+      "name": "quilava",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 156
+    },
+    {
+      "name": "typhlosion",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 157
+    },
+    {
+      "name": "totodile",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 158
+    },
+    {
+      "name": "croconaw",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 159
+    },
+    {
+      "name": "feraligatr",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 160
+    },
+    {
+      "name": "sentret",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 161
+    },
+    {
+      "name": "furret",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 162
+    },
+    {
+      "name": "hoothoot",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 163
+    },
+    {
+      "name": "noctowl",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 164
+    },
+    {
+      "name": "ledyba",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 165
+    },
+    {
+      "name": "ledian",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 166
+    },
+    {
+      "name": "spinarak",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 167
+    },
+    {
+      "name": "ariados",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 168
+    },
+    {
+      "name": "crobat",
+      "types": [
+        "flying",
+        "poison"
+      ],
+      "region": [
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 169
+    },
+    {
+      "name": "chinchou",
+      "types": [
+        "electric",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 170
+    },
+    {
+      "name": "lanturn",
+      "types": [
+        "electric",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 171
+    },
+    {
+      "name": "pichu",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 172
+    },
+    {
+      "name": "cleffa",
+      "types": [
+        "fairy"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 173
+    },
+    {
+      "name": "igglybuff",
+      "types": [
+        "fairy",
+        "normal"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 174
+    },
+    {
+      "name": "togepi",
+      "types": [
+        "fairy"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 175
+    },
+    {
+      "name": "togetic",
+      "types": [
+        "flying",
+        "fairy"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 176
+    },
+    {
+      "name": "natu",
+      "types": [
+        "flying",
+        "psychic"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 177
+    },
+    {
+      "name": "xatu",
+      "types": [
+        "flying",
+        "psychic"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 178
+    },
+    {
+      "name": "mareep",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 179
+    },
+    {
+      "name": "flaaffy",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 180
+    },
+    {
+      "name": "ampharos",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 181
+    },
+    {
+      "name": "bellossom",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 182
+    },
+    {
+      "name": "marill",
+      "types": [
+        "fairy",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 183
+    },
+    {
+      "name": "azumarill",
+      "types": [
+        "fairy",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 184
+    },
+    {
+      "name": "sudowoodo",
+      "types": [
+        "rock"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 185
+    },
+    {
+      "name": "politoed",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 186
+    },
+    {
+      "name": "hoppip",
+      "types": [
+        "flying",
+        "grass"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 187
+    },
+    {
+      "name": "skiploom",
+      "types": [
+        "flying",
+        "grass"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 188
+    },
+    {
+      "name": "jumpluff",
+      "types": [
+        "flying",
+        "grass"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 189
+    },
+    {
+      "name": "aipom",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 190
+    },
+    {
+      "name": "sunkern",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 191
+    },
+    {
+      "name": "sunflora",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 192
+    },
+    {
+      "name": "yanma",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 193
+    },
+    {
+      "name": "wooper",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 194
+    },
+    {
+      "name": "quagsire",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 195
+    },
+    {
+      "name": "espeon",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 196
+    },
+    {
+      "name": "umbreon",
+      "types": [
+        "dark"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 197
+    },
+    {
+      "name": "murkrow",
+      "types": [
+        "flying",
+        "dark"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 198
+    },
+    {
+      "name": "slowking",
+      "types": [
+        "psychic",
+        "water"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 199
+    },
+    {
+      "name": "misdreavus",
+      "types": [
+        "ghost"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 200
+    },
+    {
+      "name": "unown",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 201
+    },
+    {
+      "name": "wobbuffet",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 202
+    },
+    {
+      "name": "girafarig",
+      "types": [
+        "psychic",
+        "normal"
+      ],
+      "region": [
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 203
+    },
+    {
+      "name": "pineco",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 204
+    },
+    {
+      "name": "forretress",
+      "types": [
+        "steel",
+        "bug"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 205
+    },
+    {
+      "name": "dunsparce",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 206
+    },
+    {
+      "name": "gligar",
+      "types": [
+        "flying",
+        "ground"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 207
+    },
+    {
+      "name": "steelix",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 208
+    },
+    {
+      "name": "snubbull",
+      "types": [
+        "fairy"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 209
+    },
+    {
+      "name": "granbull",
+      "types": [
+        "fairy"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 210
+    },
+    {
+      "name": "qwilfish",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 211
+    },
+    {
+      "name": "scizor",
+      "types": [
+        "steel",
+        "bug"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 212
+    },
+    {
+      "name": "shuckle",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 213
+    },
+    {
+      "name": "heracross",
+      "types": [
+        "fighting",
+        "bug"
+      ],
+      "region": [
+        "johto",
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 214
+    },
+    {
+      "name": "sneasel",
+      "types": [
+        "ice",
+        "dark"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 215
+    },
+    {
+      "name": "teddiursa",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 216
+    },
+    {
+      "name": "ursaring",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 217
+    },
+    {
+      "name": "slugma",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 218
+    },
+    {
+      "name": "magcargo",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 219
+    },
+    {
+      "name": "swinub",
+      "types": [
+        "ground",
+        "ice"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 220
+    },
+    {
+      "name": "piloswine",
+      "types": [
+        "ground",
+        "ice"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 221
+    },
+    {
+      "name": "corsola",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 222
+    },
+    {
+      "name": "remoraid",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 223
+    },
+    {
+      "name": "octillery",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 224
+    },
+    {
+      "name": "delibird",
+      "types": [
+        "flying",
+        "ice"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 225
+    },
+    {
+      "name": "mantine",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 226
+    },
+    {
+      "name": "skarmory",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 227
+    },
+    {
+      "name": "houndour",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 228
+    },
+    {
+      "name": "houndoom",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 229
+    },
+    {
+      "name": "kingdra",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 230
+    },
+    {
+      "name": "phanpy",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 231
+    },
+    {
+      "name": "donphan",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "johto",
+        "hoenn"
+      ],
+      "generation": 2,
+      "number": 232
+    },
+    {
+      "name": "porygon2",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 233
+    },
+    {
+      "name": "stantler",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 234
+    },
+    {
+      "name": "smeargle",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 235
+    },
+    {
+      "name": "tyrogue",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 236
+    },
+    {
+      "name": "hitmontop",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 237
+    },
+    {
+      "name": "smoochum",
+      "types": [
+        "psychic",
+        "ice"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 238
+    },
+    {
+      "name": "elekid",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 239
+    },
+    {
+      "name": "magby",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 240
+    },
+    {
+      "name": "miltank",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 241
+    },
+    {
+      "name": "blissey",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "johto",
+        "sinnoh"
+      ],
+      "generation": 2,
+      "number": 242
+    },
+    {
+      "name": "raikou",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 243
+    },
+    {
+      "name": "entei",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 244
+    },
+    {
+      "name": "suicune",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 245
+    },
+    {
+      "name": "larvitar",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 246
+    },
+    {
+      "name": "pupitar",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 247
+    },
+    {
+      "name": "tyranitar",
+      "types": [
+        "dark",
+        "rock"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 248
+    },
+    {
+      "name": "lugia",
+      "types": [
+        "flying",
+        "psychic"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 249
+    },
+    {
+      "name": "ho-oh",
+      "types": [
+        "flying",
+        "fire"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 250
+    },
+    {
+      "name": "celebi",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "region": [
+        "johto"
+      ],
+      "generation": 2,
+      "number": 251
+    },
+    {
+      "name": "treecko",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 252
+    },
+    {
+      "name": "grovyle",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 253
+    },
+    {
+      "name": "sceptile",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 254
+    },
+    {
+      "name": "torchic",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 255
+    },
+    {
+      "name": "combusken",
+      "types": [
+        "fighting",
+        "fire"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 256
+    },
+    {
+      "name": "blaziken",
+      "types": [
+        "fighting",
+        "fire"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 257
+    },
+    {
+      "name": "mudkip",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 258
+    },
+    {
+      "name": "marshtomp",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 259
+    },
+    {
+      "name": "swampert",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 260
+    },
+    {
+      "name": "poochyena",
+      "types": [
+        "dark"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 261
+    },
+    {
+      "name": "mightyena",
+      "types": [
+        "dark"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 262
+    },
+    {
+      "name": "zigzagoon",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 263
+    },
+    {
+      "name": "linoone",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 264
+    },
+    {
+      "name": "wurmple",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 265
+    },
+    {
+      "name": "silcoon",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 266
+    },
+    {
+      "name": "beautifly",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 267
+    },
+    {
+      "name": "cascoon",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 268
+    },
+    {
+      "name": "dustox",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 269
+    },
+    {
+      "name": "lotad",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 270
+    },
+    {
+      "name": "lombre",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 271
+    },
+    {
+      "name": "ludicolo",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 272
+    },
+    {
+      "name": "seedot",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 273
+    },
+    {
+      "name": "nuzleaf",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 274
+    },
+    {
+      "name": "shiftry",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 275
+    },
+    {
+      "name": "taillow",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 276
+    },
+    {
+      "name": "swellow",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 277
+    },
+    {
+      "name": "wingull",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 278
+    },
+    {
+      "name": "pelipper",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 279
+    },
+    {
+      "name": "ralts",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 280
+    },
+    {
+      "name": "kirlia",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 281
+    },
+    {
+      "name": "gardevoir",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 282
+    },
+    {
+      "name": "surskit",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 283
+    },
+    {
+      "name": "masquerain",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 284
+    },
+    {
+      "name": "shroomish",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 285
+    },
+    {
+      "name": "breloom",
+      "types": [
+        "fighting",
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 286
+    },
+    {
+      "name": "slakoth",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 287
+    },
+    {
+      "name": "vigoroth",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 288
+    },
+    {
+      "name": "slaking",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 289
+    },
+    {
+      "name": "nincada",
+      "types": [
+        "ground",
+        "bug"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 290
+    },
+    {
+      "name": "ninjask",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 291
+    },
+    {
+      "name": "shedinja",
+      "types": [
+        "ghost",
+        "bug"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 292
+    },
+    {
+      "name": "whismur",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 293
+    },
+    {
+      "name": "loudred",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 294
+    },
+    {
+      "name": "exploud",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 295
+    },
+    {
+      "name": "makuhita",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 296
+    },
+    {
+      "name": "hariyama",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 297
+    },
+    {
+      "name": "azurill",
+      "types": [
+        "fairy",
+        "normal"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 298
+    },
+    {
+      "name": "nosepass",
+      "types": [
+        "rock"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 299
+    },
+    {
+      "name": "skitty",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 300
+    },
+    {
+      "name": "delcatty",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 301
+    },
+    {
+      "name": "sableye",
+      "types": [
+        "ghost",
+        "dark"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 302
+    },
+    {
+      "name": "mawile",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 303
+    },
+    {
+      "name": "aron",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 304
+    },
+    {
+      "name": "lairon",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 305
+    },
+    {
+      "name": "aggron",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 306
+    },
+    {
+      "name": "meditite",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 307
+    },
+    {
+      "name": "medicham",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 308
+    },
+    {
+      "name": "electrike",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 309
+    },
+    {
+      "name": "manectric",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 310
+    },
+    {
+      "name": "plusle",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 311
+    },
+    {
+      "name": "minun",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 312
+    },
+    {
+      "name": "volbeat",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 313
+    },
+    {
+      "name": "illumise",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 314
+    },
+    {
+      "name": "roselia",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 315
+    },
+    {
+      "name": "gulpin",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 316
+    },
+    {
+      "name": "swalot",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 317
+    },
+    {
+      "name": "carvanha",
+      "types": [
+        "dark",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 318
+    },
+    {
+      "name": "sharpedo",
+      "types": [
+        "dark",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 319
+    },
+    {
+      "name": "wailmer",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 320
+    },
+    {
+      "name": "wailord",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 321
+    },
+    {
+      "name": "numel",
+      "types": [
+        "ground",
+        "fire"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 322
+    },
+    {
+      "name": "camerupt",
+      "types": [
+        "ground",
+        "fire"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 323
+    },
+    {
+      "name": "torkoal",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 324
+    },
+    {
+      "name": "spoink",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 325
+    },
+    {
+      "name": "grumpig",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 326
+    },
+    {
+      "name": "spinda",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 327
+    },
+    {
+      "name": "trapinch",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 328
+    },
+    {
+      "name": "vibrava",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 329
+    },
+    {
+      "name": "flygon",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 330
+    },
+    {
+      "name": "cacnea",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 331
+    },
+    {
+      "name": "cacturne",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 332
+    },
+    {
+      "name": "swablu",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 333
+    },
+    {
+      "name": "altaria",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 334
+    },
+    {
+      "name": "zangoose",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 335
+    },
+    {
+      "name": "seviper",
+      "types": [
+        "poison"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 336
+    },
+    {
+      "name": "lunatone",
+      "types": [
+        "psychic",
+        "rock"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 337
+    },
+    {
+      "name": "solrock",
+      "types": [
+        "psychic",
+        "rock"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 338
+    },
+    {
+      "name": "barboach",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 339
+    },
+    {
+      "name": "whiscash",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 340
+    },
+    {
+      "name": "corphish",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 341
+    },
+    {
+      "name": "crawdaunt",
+      "types": [
+        "dark",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 342
+    },
+    {
+      "name": "baltoy",
+      "types": [
+        "psychic",
+        "ground"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 343
+    },
+    {
+      "name": "claydol",
+      "types": [
+        "psychic",
+        "ground"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 344
+    },
+    {
+      "name": "lileep",
+      "types": [
+        "grass",
+        "rock"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 345
+    },
+    {
+      "name": "cradily",
+      "types": [
+        "grass",
+        "rock"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 346
+    },
+    {
+      "name": "anorith",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 347
+    },
+    {
+      "name": "armaldo",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 348
+    },
+    {
+      "name": "feebas",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 349
+    },
+    {
+      "name": "milotic",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 350
+    },
+    {
+      "name": "castform",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 351
+    },
+    {
+      "name": "kecleon",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 352
+    },
+    {
+      "name": "shuppet",
+      "types": [
+        "ghost"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 353
+    },
+    {
+      "name": "banette",
+      "types": [
+        "ghost"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 354
+    },
+    {
+      "name": "duskull",
+      "types": [
+        "ghost"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 355
+    },
+    {
+      "name": "dusclops",
+      "types": [
+        "ghost"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 356
+    },
+    {
+      "name": "tropius",
+      "types": [
+        "flying",
+        "grass"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 357
+    },
+    {
+      "name": "chimecho",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 358
+    },
+    {
+      "name": "absol",
+      "types": [
+        "dark"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 359
+    },
+    {
+      "name": "wynaut",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 360
+    },
+    {
+      "name": "snorunt",
+      "types": [
+        "ice"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 361
+    },
+    {
+      "name": "glalie",
+      "types": [
+        "ice"
+      ],
+      "region": [
+        "hoenn",
+        "sinnoh"
+      ],
+      "generation": 3,
+      "number": 362
+    },
+    {
+      "name": "spheal",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 363
+    },
+    {
+      "name": "sealeo",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 364
+    },
+    {
+      "name": "walrein",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 365
+    },
+    {
+      "name": "clamperl",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 366
+    },
+    {
+      "name": "huntail",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 367
+    },
+    {
+      "name": "gorebyss",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 368
+    },
+    {
+      "name": "relicanth",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 369
+    },
+    {
+      "name": "luvdisc",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 370
+    },
+    {
+      "name": "bagon",
+      "types": [
+        "dragon"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 371
+    },
+    {
+      "name": "shelgon",
+      "types": [
+        "dragon"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 372
+    },
+    {
+      "name": "salamence",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 373
+    },
+    {
+      "name": "beldum",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 374
+    },
+    {
+      "name": "metang",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 375
+    },
+    {
+      "name": "metagross",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 376
+    },
+    {
+      "name": "regirock",
+      "types": [
+        "rock"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 377
+    },
+    {
+      "name": "regice",
+      "types": [
+        "ice"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 378
+    },
+    {
+      "name": "registeel",
+      "types": [
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 379
+    },
+    {
+      "name": "latias",
+      "types": [
+        "psychic",
+        "dragon"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 380
+    },
+    {
+      "name": "latios",
+      "types": [
+        "psychic",
+        "dragon"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 381
+    },
+    {
+      "name": "kyogre",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 382
+    },
+    {
+      "name": "groudon",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 383
+    },
+    {
+      "name": "rayquaza",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 384
+    },
+    {
+      "name": "jirachi",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 385
+    },
+    {
+      "name": "deoxys-normal",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "hoenn"
+      ],
+      "generation": 3,
+      "number": 386
+    },
+    {
+      "name": "turtwig",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 387
+    },
+    {
+      "name": "grotle",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 388
+    },
+    {
+      "name": "torterra",
+      "types": [
+        "ground",
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 389
+    },
+    {
+      "name": "chimchar",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 390
+    },
+    {
+      "name": "monferno",
+      "types": [
+        "fighting",
+        "fire"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 391
+    },
+    {
+      "name": "infernape",
+      "types": [
+        "fighting",
+        "fire"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 392
+    },
+    {
+      "name": "piplup",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 393
+    },
+    {
+      "name": "prinplup",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 394
+    },
+    {
+      "name": "empoleon",
+      "types": [
+        "steel",
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 395
+    },
+    {
+      "name": "starly",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 396
+    },
+    {
+      "name": "staravia",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 397
+    },
+    {
+      "name": "staraptor",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 398
+    },
+    {
+      "name": "bidoof",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 399
+    },
+    {
+      "name": "bibarel",
+      "types": [
+        "water",
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 400
+    },
+    {
+      "name": "kricketot",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 401
+    },
+    {
+      "name": "kricketune",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 402
+    },
+    {
+      "name": "shinx",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 403
+    },
+    {
+      "name": "luxio",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 404
+    },
+    {
+      "name": "luxray",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 405
+    },
+    {
+      "name": "budew",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 406
+    },
+    {
+      "name": "roserade",
+      "types": [
+        "poison",
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 407
+    },
+    {
+      "name": "cranidos",
+      "types": [
+        "rock"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 408
+    },
+    {
+      "name": "rampardos",
+      "types": [
+        "rock"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 409
+    },
+    {
+      "name": "shieldon",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 410
+    },
+    {
+      "name": "bastiodon",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 411
+    },
+    {
+      "name": "burmy",
+      "types": [
+        "bug"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 412
+    },
+    {
+      "name": "wormadam-plant",
+      "types": [
+        "grass",
+        "bug"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 413
+    },
+    {
+      "name": "mothim",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 414
+    },
+    {
+      "name": "combee",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 415
+    },
+    {
+      "name": "vespiquen",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 416
+    },
+    {
+      "name": "pachirisu",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 417
+    },
+    {
+      "name": "buizel",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 418
+    },
+    {
+      "name": "floatzel",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 419
+    },
+    {
+      "name": "cherubi",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 420
+    },
+    {
+      "name": "cherrim",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 421
+    },
+    {
+      "name": "shellos",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 422
+    },
+    {
+      "name": "gastrodon",
+      "types": [
+        "ground",
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 423
+    },
+    {
+      "name": "ambipom",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 424
+    },
+    {
+      "name": "drifloon",
+      "types": [
+        "flying",
+        "ghost"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 425
+    },
+    {
+      "name": "drifblim",
+      "types": [
+        "flying",
+        "ghost"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 426
+    },
+    {
+      "name": "buneary",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 427
+    },
+    {
+      "name": "lopunny",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 428
+    },
+    {
+      "name": "mismagius",
+      "types": [
+        "ghost"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 429
+    },
+    {
+      "name": "honchkrow",
+      "types": [
+        "flying",
+        "dark"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 430
+    },
+    {
+      "name": "glameow",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 431
+    },
+    {
+      "name": "purugly",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 432
+    },
+    {
+      "name": "chingling",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 433
+    },
+    {
+      "name": "stunky",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 434
+    },
+    {
+      "name": "skuntank",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 435
+    },
+    {
+      "name": "bronzor",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 436
+    },
+    {
+      "name": "bronzong",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 437
+    },
+    {
+      "name": "bonsly",
+      "types": [
+        "rock"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 438
+    },
+    {
+      "name": "mime-jr",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 439
+    },
+    {
+      "name": "happiny",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 440
+    },
+    {
+      "name": "chatot",
+      "types": [
+        "flying",
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 441
+    },
+    {
+      "name": "spiritomb",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 442
+    },
+    {
+      "name": "gible",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 443
+    },
+    {
+      "name": "gabite",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 444
+    },
+    {
+      "name": "garchomp",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 445
+    },
+    {
+      "name": "munchlax",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 446
+    },
+    {
+      "name": "riolu",
+      "types": [
+        "fighting"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 447
+    },
+    {
+      "name": "lucario",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 448
+    },
+    {
+      "name": "hippopotas",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 449
+    },
+    {
+      "name": "hippowdon",
+      "types": [
+        "ground"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 450
+    },
+    {
+      "name": "skorupi",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 451
+    },
+    {
+      "name": "drapion",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 452
+    },
+    {
+      "name": "croagunk",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 453
+    },
+    {
+      "name": "toxicroak",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 454
+    },
+    {
+      "name": "carnivine",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 455
+    },
+    {
+      "name": "finneon",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 456
+    },
+    {
+      "name": "lumineon",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 457
+    },
+    {
+      "name": "mantyke",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 458
+    },
+    {
+      "name": "snover",
+      "types": [
+        "ice",
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 459
+    },
+    {
+      "name": "abomasnow",
+      "types": [
+        "ice",
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 460
+    },
+    {
+      "name": "weavile",
+      "types": [
+        "ice",
+        "dark"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 461
+    },
+    {
+      "name": "magnezone",
+      "types": [
+        "steel",
+        "electric"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 462
+    },
+    {
+      "name": "lickilicky",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 463
+    },
+    {
+      "name": "rhyperior",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 464
+    },
+    {
+      "name": "tangrowth",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 465
+    },
+    {
+      "name": "electivire",
+      "types": [
+        "electric"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 466
+    },
+    {
+      "name": "magmortar",
+      "types": [
+        "fire"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 467
+    },
+    {
+      "name": "togekiss",
+      "types": [
+        "flying",
+        "fairy"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 468
+    },
+    {
+      "name": "yanmega",
+      "types": [
+        "flying",
+        "bug"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 469
+    },
+    {
+      "name": "leafeon",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 470
+    },
+    {
+      "name": "glaceon",
+      "types": [
+        "ice"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 471
+    },
+    {
+      "name": "gliscor",
+      "types": [
+        "flying",
+        "ground"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 472
+    },
+    {
+      "name": "mamoswine",
+      "types": [
+        "ground",
+        "ice"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 473
+    },
+    {
+      "name": "porygon-z",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 474
+    },
+    {
+      "name": "gallade",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 475
+    },
+    {
+      "name": "probopass",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 476
+    },
+    {
+      "name": "dusknoir",
+      "types": [
+        "ghost"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 477
+    },
+    {
+      "name": "froslass",
+      "types": [
+        "ghost",
+        "ice"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 478
+    },
+    {
+      "name": "rotom",
+      "types": [
+        "ghost",
+        "electric"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 479
+    },
+    {
+      "name": "uxie",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 480
+    },
+    {
+      "name": "mesprit",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 481
+    },
+    {
+      "name": "azelf",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 482
+    },
+    {
+      "name": "dialga",
+      "types": [
+        "dragon",
+        "steel"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 483
+    },
+    {
+      "name": "palkia",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 484
+    },
+    {
+      "name": "heatran",
+      "types": [
+        "steel",
+        "fire"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 485
+    },
+    {
+      "name": "regigigas",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 486
+    },
+    {
+      "name": "giratina-altered",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 487
+    },
+    {
+      "name": "cresselia",
+      "types": [
+        "psychic"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 488
+    },
+    {
+      "name": "phione",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 489
+    },
+    {
+      "name": "manaphy",
+      "types": [
+        "water"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 490
+    },
+    {
+      "name": "darkrai",
+      "types": [
+        "dark"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 491
+    },
+    {
+      "name": "shaymin-land",
+      "types": [
+        "grass"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 492
+    },
+    {
+      "name": "arceus",
+      "types": [
+        "normal"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 493
+    },
+    {
+      "name": "victini",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "region": [
+        "sinnoh"
+      ],
+      "generation": 4,
+      "number": 494
+    }
+  ]
+}
