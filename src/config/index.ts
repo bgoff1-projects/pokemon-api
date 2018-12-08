@@ -2,7 +2,7 @@ export const serverPort = process.env.PORT || 8000;
 
 export const logFormat = 'dev';
 
-export const reactURL = process.env.reactURL || 'http://localhost:3000';
+export const reactURL = process.env.reactURL || 'http://localhost:3000' || 'https://bgoff1-projects.github.io/pokemon';
 export const CORSMethods = 'GET, POST, OPTIONS, PUT, PATCH, DELETE';
 export const CORSHeaders = 'X-Requested-With,Content-Type';
 
