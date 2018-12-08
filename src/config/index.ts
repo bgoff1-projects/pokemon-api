@@ -11,7 +11,6 @@ import { Response, Request, NextFunction } from 'express';
 
 export function allowCORS(req: Request, res: Response, next: NextFunction) {
     res.setHeader('Access-Control-Allow-Origin', reactURL);
-    res.setHeader('Access-Control-Allow-Origin', devURL);
     res.setHeader('Access-Control-Allow-Methods', CORSMethods);
     res.setHeader('Access-Control-Allow-Headers', CORSHeaders);
     next();
