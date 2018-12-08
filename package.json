@@ -5,8 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "start": "node build",
-    "prestart": "yarn lint && yarn build",
-    "lint": "tslint -p src",
+    "prestart": "yarn build",
     "build": "tsc -p src",
     "clean": "rm -rf build",
     "tslint": "tslint"
