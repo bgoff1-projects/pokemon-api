@@ -1,56 +1,44 @@
-import { Document, model, Schema } from 'mongoose';
-import { PokemonTypes, Regions } from '../types';
 import { readFile } from 'fs';
 
-interface IPokemon extends Document {
+const POKEMON: Pokemon[] = [];
+
+interface IPokemon {
     name: string;
-    types: [PokemonTypes, PokemonTypes | undefined];
-    region: [Regions];
+    types: string[];
+    region: string[];
     generation: number;
     image: any;
     pokemonNumber: number;
 }
 
-export const pokemonSchema = new Schema({
-    name: {
-        type: String,
-        required: true,
-        unique: true
-    },
-    types: {
-        type: [String],
-        required: true
-    },
-    region: [String],
-    generation: Number,
-    image: Schema.Types.Mixed,
-    pokemonNumber: Number
-}, {
-    toJSON: {
-        transform: (doc, ret) => {
-            return {
-                name: ret.name,
-                number: ret.pokemonNumber,
-                types: ret.types,
-                region: ret.region,
-                image: ret.image
-            };
-        }
+class Pokemon implements IPokemon {
+    name: string;
+    types: string[];
+    region: string[];
+    generation: number;
+    image: any;
+    pokemonNumber: number;
+
+    constructor(data: IPokemon) {
+        this.name = data.name;
+        this.types = data.types;
+        this.region = data.region;
+        this.generation = data.generation;
+        this.image = data.image;
+        this.pokemonNumber = data.pokemonNumber;
     }
+}
 
-});
-
-export const Pokemon = model<IPokemon>('Pokemon', pokemonSchema);
-
-async function createPokemon(pokemon: any) {
+function createPokemon(pokemon: any) {
     const name = pokemon.name[0].toUpperCase() + pokemon.name.substring(1);
     const types = arrayManipulate(pokemon.types);
     const region = arrayManipulate(pokemon.region);
+    const generation = pokemon.generation;
     const pokemonNumber = pokemon.number;
-    await readFile(`./images/${pokemonNumber}.png`, async (err, img) => {
+    readFile(`./images/${pokemonNumber}.png`, (err, img) => {
         const image = img.toString('base64');
-        const myPokemon = new Pokemon({ name, types, region, pokemonNumber, image });
-        await myPokemon.save();
+        const myPokemon = new Pokemon({ name, types, region, generation, pokemonNumber, image });
+        POKEMON.push(myPokemon);
     });
 }
 
@@ -62,21 +50,18 @@ function arrayManipulate(arr: string[]): string[] {
     return result;
 }
 
-Pokemon.estimatedDocumentCount(async (err, count) => {
-    console.log(count);
-    if (count === 0) {
-        await readFile('./src/config/pokemon.json', async (err1, data) => {
-            if (err1) {
-                console.error(err1);
-            }
-            await addPokemon(data);
-        });
+readFile('./src/config/pokemon.json', (err1, data) => {
+    if (err1) {
+        console.error(err1);
     }
+    addPokemon(data);
 });
 
-async function addPokemon(data: any) {
+function addPokemon(data: any) {
     const pokemon = JSON.parse(data.toString()).pokemon;
     for (const poke of pokemon) {
-        await createPokemon(poke);
+        createPokemon(poke);
     }
 }
+
+export const pokemon = POKEMON;
