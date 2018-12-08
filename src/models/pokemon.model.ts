@@ -80,5 +80,3 @@ async function addPokemon(data: any) {
         await createPokemon(poke);
     }
 }
-
-setTypeChart();
