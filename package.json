@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node build",
     "prestart": "yarn build",
-    "build": "tsc -p src",
+    "compile": "tsc -p src",
     "clean": "rm -rf build",
     "tslint": "tslint"
   },
