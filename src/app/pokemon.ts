@@ -5,6 +5,10 @@ export async function getAllPokemon(req: Request, res: Response) {
     res.status(200).json(await pokemon.sort((a, b) => a.pokemonNumber - b.pokemonNumber));
 }
 
+export async function getAllPokemon2(req: Request, res: Response) {
+    res.status(200).json({'pokemon': await pokemon.sort((a,b) => a.pokemonNumber - b.pokemonNumber)});
+}
+
 // export async function getPokemonFromNumber(req: Request, res: Response, next: NextFunction, pokemonNumber: number) {
 //     const pokemon = await Pokemon.findOne({ pokemonNumber });
 //     if (pokemon) {
