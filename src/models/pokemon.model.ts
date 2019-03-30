@@ -5,16 +5,24 @@ const POKEMON: Pokemon[] = [];
 interface IPokemon {
     name: string;
     types: string[];
-    region: string[];
+    games: string[];
     generation: number;
     image: any;
     pokemonNumber: number;
 }
 
+interface PokemonFromJSON {
+    name: string;
+    types: string[];
+    games: string[];
+    generation: number;
+    number: number;
+}
+
 class Pokemon implements IPokemon {
     name: string;
     types: string[];
-    region: string[];
+    games: string[];
     generation: number;
     image: any;
     pokemonNumber: number;
@@ -22,22 +30,28 @@ class Pokemon implements IPokemon {
     constructor(data: IPokemon) {
         this.name = data.name;
         this.types = data.types;
-        this.region = data.region;
+        this.games = data.games;
         this.generation = data.generation;
         this.image = data.image;
         this.pokemonNumber = data.pokemonNumber;
     }
 }
 
-function createPokemon(pokemon: any) {
-    const name = pokemon.name[0].toUpperCase() + pokemon.name.substring(1);
+function createPokemon(pokemon: PokemonFromJSON) {
+    let name: string;
+    if (pokemon.name.includes('alolan ')) {
+        const n = pokemon.name.split(' ');
+        name = n[0].charAt(0).toUpperCase() + n[0].substring(1) + n[1].charAt(0).toUpperCase() + n[1].substring(1);
+    } else {
+        name = pokemon.name[0].toUpperCase() + pokemon.name.substring(1);
+    }
     const types = arrayManipulate(pokemon.types);
-    const region = arrayManipulate(pokemon.region);
+    const games = arrayManipulate(pokemon.games);
     const generation = pokemon.generation;
     const pokemonNumber = pokemon.number;
     readFile(`./images/${pokemonNumber}.png`, (err, img) => {
         const image = img.toString('base64');
-        const myPokemon = new Pokemon({ name, types, region, generation, pokemonNumber, image });
+        const myPokemon = new Pokemon({ name, types, games, generation, pokemonNumber, image });
         POKEMON.push(myPokemon);
     });
 }
