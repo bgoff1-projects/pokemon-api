@@ -39,7 +39,8 @@ class Pokemon implements IPokemon {
 
 function createPokemon(pokemon: PokemonFromJSON) {
     let name: string;
-    if (pokemon.name.includes('alolan ')) {
+    const alolan = pokemon.name.includes('alolan ');
+    if (alolan) {
         const n = pokemon.name.split(' ');
         name = n[0].charAt(0).toUpperCase() + n[0].substring(1) + n[1].charAt(0).toUpperCase() + n[1].substring(1);
     } else {
@@ -49,6 +50,7 @@ function createPokemon(pokemon: PokemonFromJSON) {
     const games = arrayManipulate(pokemon.games);
     const generation = pokemon.generation;
     const pokemonNumber = pokemon.number;
+    const filePath = alolan ? `./images/${pokemonNumber}-alola.png` : `./images/${pokemonNumber}.png`;
     readFile(`./images/${pokemonNumber}.png`, (err, img) => {
         const image = img.toString('base64');
         const myPokemon = new Pokemon({ name, types, games, generation, pokemonNumber, image });
