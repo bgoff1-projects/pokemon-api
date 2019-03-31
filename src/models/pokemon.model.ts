@@ -51,7 +51,7 @@ function createPokemon(pokemon: PokemonFromJSON) {
     const generation = pokemon.generation;
     const pokemonNumber = pokemon.number;
     const filePath = alolan ? `./images/${pokemonNumber}-alola.png` : `./images/${pokemonNumber}.png`;
-    readFile(`./images/${pokemonNumber}.png`, (err, img) => {
+    readFile(filePath, (err, img) => {
         const image = img.toString('base64');
         const myPokemon = new Pokemon({ name, types, games, generation, pokemonNumber, image });
         POKEMON.push(myPokemon);
