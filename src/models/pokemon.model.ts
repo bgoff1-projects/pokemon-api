@@ -49,7 +49,7 @@ function createPokemon(pokemon: PokemonFromJSON) {
 
     if (alolan) {
         const n = pokemon.name.split(' ');
-        name = n[0].charAt(0).toUpperCase() + n[0].substring(1) + n[1].charAt(0).toUpperCase() + n[1].substring(1);
+        name = n[0].charAt(0).toUpperCase() + n[0].substring(1) + ' ' + n[1].charAt(0).toUpperCase() + n[1].substring(1);
         filePath = `./images/${pokemonNumber}-alola.png`;
     } else {
         name = pokemon.name[0].toUpperCase() + pokemon.name.substring(1);
