@@ -1,0 +1,6588 @@
+{
+  "pokemon": [
+    {
+      "name": "bulbasaur",
+      "locations": {
+        "XY": 80,
+        "HGSS": 231,
+        "GSC": 226,
+        "LGPE": 1,
+        "FRLG": 1,
+        "RBY": 1
+      }
+    },
+    {
+      "name": "ivysaur",
+      "locations": {
+        "XY": 81,
+        "HGSS": 232,
+        "GSC": 227,
+        "LGPE": 2,
+        "FRLG": 2,
+        "RBY": 2
+      }
+    },
+    {
+      "name": "venusaur",
+      "locations": {
+        "XY": 82,
+        "HGSS": 233,
+        "GSC": 228,
+        "LGPE": 3,
+        "FRLG": 3,
+        "RBY": 3
+      }
+    },
+    {
+      "name": "charmander",
+      "locations": {
+        "XY": 83,
+        "HGSS": 234,
+        "GSC": 229,
+        "LGPE": 4,
+        "FRLG": 4,
+        "RBY": 4
+      }
+    },
+    {
+      "name": "charmeleon",
+      "locations": {
+        "XY": 84,
+        "HGSS": 235,
+        "GSC": 230,
+        "LGPE": 5,
+        "FRLG": 5,
+        "RBY": 5
+      }
+    },
+    {
+      "name": "charizard",
+      "locations": {
+        "XY": 85,
+        "HGSS": 236,
+        "GSC": 231,
+        "LGPE": 6,
+        "FRLG": 6,
+        "RBY": 6
+      }
+    },
+    {
+      "name": "squirtle",
+      "locations": {
+        "XY": 86,
+        "HGSS": 237,
+        "GSC": 232,
+        "LGPE": 7,
+        "FRLG": 7,
+        "RBY": 7
+      }
+    },
+    {
+      "name": "wartortle",
+      "locations": {
+        "XY": 87,
+        "HGSS": 238,
+        "GSC": 233,
+        "LGPE": 8,
+        "FRLG": 8,
+        "RBY": 8
+      }
+    },
+    {
+      "name": "blastoise",
+      "locations": {
+        "XY": 88,
+        "HGSS": 239,
+        "GSC": 234,
+        "LGPE": 9,
+        "FRLG": 9,
+        "RBY": 9
+      }
+    },
+    {
+      "name": "caterpie",
+      "locations": {
+        "XY": 23,
+        "HGSS": 24,
+        "GSC": 24,
+        "LGPE": 10,
+        "FRLG": 10,
+        "RBY": 10
+      }
+    },
+    {
+      "name": "metapod",
+      "locations": {
+        "XY": 24,
+        "HGSS": 25,
+        "GSC": 25,
+        "LGPE": 11,
+        "FRLG": 11,
+        "RBY": 11
+      }
+    },
+    {
+      "name": "butterfree",
+      "locations": {
+        "XY": 25,
+        "HGSS": 26,
+        "GSC": 26,
+        "LGPE": 12,
+        "FRLG": 12,
+        "RBY": 12
+      }
+    },
+    {
+      "name": "weedle",
+      "locations": {
+        "XY": 26,
+        "HGSS": 27,
+        "GSC": 27,
+        "LGPE": 13,
+        "FRLG": 13,
+        "RBY": 13
+      }
+    },
+    {
+      "name": "kakuna",
+      "locations": {
+        "XY": 27,
+        "HGSS": 28,
+        "GSC": 28,
+        "LGPE": 14,
+        "FRLG": 14,
+        "RBY": 14
+      }
+    },
+    {
+      "name": "beedrill",
+      "locations": {
+        "XY": 28,
+        "HGSS": 29,
+        "GSC": 29,
+        "LGPE": 15,
+        "FRLG": 15,
+        "RBY": 15
+      }
+    },
+    {
+      "name": "pidgey",
+      "locations": {
+        "XY": 17,
+        "HGSS": 10,
+        "GSC": 10,
+        "LGPE": 16,
+        "FRLG": 16,
+        "RBY": 16
+      }
+    },
+    {
+      "name": "pidgeotto",
+      "locations": {
+        "XY": 18,
+        "HGSS": 11,
+        "GSC": 11,
+        "LGPE": 17,
+        "FRLG": 17,
+        "RBY": 17
+      }
+    },
+    {
+      "name": "pidgeot",
+      "locations": {
+        "XY": 19,
+        "HGSS": 12,
+        "GSC": 12,
+        "LGPE": 18,
+        "FRLG": 18,
+        "RBY": 18
+      }
+    },
+    {
+      "name": "rattata",
+      "locations": {
+        "BW2": 59,
+        "HGSS": 17,
+        "GSC": 17,
+        "LGPE": 19,
+        "FRLG": 19,
+        "RBY": 19
+      }
+    },
+    {
+      "name": "raticate",
+      "locations": {
+        "BW2": 60,
+        "HGSS": 18,
+        "GSC": 18,
+        "LGPE": 20,
+        "FRLG": 20,
+        "RBY": 20
+      }
+    },
+    {
+      "name": "spearow",
+      "locations": {
+        "XY": 415,
+        "HGSS": 13,
+        "GSC": 13,
+        "LGPE": 21,
+        "FRLG": 21,
+        "RBY": 21
+      }
+    },
+    {
+      "name": "fearow",
+      "locations": {
+        "XY": 416,
+        "HGSS": 14,
+        "GSC": 14,
+        "LGPE": 22,
+        "FRLG": 22,
+        "RBY": 22
+      }
+    },
+    {
+      "name": "ekans",
+      "locations": {
+        "XY": 343,
+        "HGSS": 50,
+        "GSC": 50,
+        "LGPE": 23,
+        "FRLG": 23,
+        "RBY": 23
+      }
+    },
+    {
+      "name": "arbok",
+      "locations": {
+        "XY": 344,
+        "HGSS": 51,
+        "GSC": 51,
+        "LGPE": 24,
+        "FRLG": 24,
+        "RBY": 24
+      }
+    },
+    {
+      "name": "pikachu",
+      "locations": {
+        "ORAS": 163,
+        "XY": 36,
+        "HGSS": 22,
+        "PT": 104,
+        "DP": 104,
+        "RSE": 156,
+        "GSC": 22,
+        "LGPE": 25,
+        "FRLG": 25,
+        "RBY": 25
+      }
+    },
+    {
+      "name": "raichu",
+      "locations": {
+        "ORAS": 164,
+        "XY": 37,
+        "HGSS": 23,
+        "PT": 105,
+        "DP": 105,
+        "RSE": 157,
+        "GSC": 23,
+        "LGPE": 26,
+        "FRLG": 26,
+        "RBY": 26
+      }
+    },
+    {
+      "name": "sandshrew",
+      "locations": {
+        "ORAS": 117,
+        "XY": 403,
+        "BW2": 113,
+        "HGSS": 48,
+        "RSE": 112,
+        "GSC": 48,
+        "LGPE": 27,
+        "FRLG": 27,
+        "RBY": 27
+      }
+    },
+    {
+      "name": "sandslash",
+      "locations": {
+        "ORAS": 118,
+        "XY": 404,
+        "BW2": 114,
+        "HGSS": 49,
+        "RSE": 113,
+        "GSC": 49,
+        "LGPE": 28,
+        "FRLG": 28,
+        "RBY": 28
+      }
+    },
+    {
+      "name": "nidoran-f",
+      "locations": {
+        "XY": 257,
+        "HGSS": 95,
+        "GSC": 95,
+        "LGPE": 29,
+        "FRLG": 29,
+        "RBY": 29
+      }
+    },
+    {
+      "name": "nidorina",
+      "locations": {
+        "XY": 258,
+        "HGSS": 96,
+        "GSC": 96,
+        "LGPE": 30,
+        "FRLG": 30,
+        "RBY": 30
+      }
+    },
+    {
+      "name": "nidoqueen",
+      "locations": {
+        "XY": 259,
+        "HGSS": 97,
+        "GSC": 97,
+        "LGPE": 31,
+        "FRLG": 31,
+        "RBY": 31
+      }
+    },
+    {
+      "name": "nidoran-m",
+      "locations": {
+        "XY": 260,
+        "HGSS": 98,
+        "GSC": 98,
+        "LGPE": 32,
+        "FRLG": 32,
+        "RBY": 32
+      }
+    },
+    {
+      "name": "nidorino",
+      "locations": {
+        "XY": 261,
+        "HGSS": 99,
+        "GSC": 99,
+        "LGPE": 33,
+        "FRLG": 33,
+        "RBY": 33
+      }
+    },
+    {
+      "name": "nidoking",
+      "locations": {
+        "XY": 262,
+        "HGSS": 100,
+        "GSC": 100,
+        "LGPE": 34,
+        "FRLG": 34,
+        "RBY": 34
+      }
+    },
+    {
+      "name": "clefairy",
+      "locations": {
+        "BW2": 89,
+        "HGSS": 41,
+        "PT": 100,
+        "DP": 100,
+        "GSC": 41,
+        "LGPE": 35,
+        "FRLG": 35,
+        "RBY": 35
+      }
+    },
+    {
+      "name": "clefable",
+      "locations": {
+        "BW2": 90,
+        "HGSS": 42,
+        "PT": 101,
+        "DP": 101,
+        "GSC": 42,
+        "LGPE": 36,
+        "FRLG": 36,
+        "RBY": 36
+      }
+    },
+    {
+      "name": "vulpix",
+      "locations": {
+        "ORAS": 160,
+        "BW2": 248,
+        "HGSS": 127,
+        "RSE": 153,
+        "GSC": 125,
+        "LGPE": 37,
+        "FRLG": 37,
+        "RBY": 37
+      }
+    },
+    {
+      "name": "ninetales",
+      "locations": {
+        "ORAS": 161,
+        "BW2": 249,
+        "HGSS": 128,
+        "RSE": 154,
+        "GSC": 126,
+        "LGPE": 38,
+        "FRLG": 38,
+        "RBY": 38
+      }
+    },
+    {
+      "name": "jigglypuff",
+      "locations": {
+        "ORAS": 143,
+        "XY": 426,
+        "BW2": 282,
+        "HGSS": 44,
+        "RSE": 138,
+        "GSC": 44,
+        "LGPE": 39,
+        "FRLG": 39,
+        "RBY": 39
+      }
+    },
+    {
+      "name": "wigglytuff",
+      "locations": {
+        "ORAS": 144,
+        "XY": 427,
+        "BW2": 283,
+        "HGSS": 45,
+        "RSE": 139,
+        "GSC": 45,
+        "LGPE": 40,
+        "FRLG": 40,
+        "RBY": 40
+      }
+    },
+    {
+      "name": "zubat",
+      "locations": {
+        "ORAS": 65,
+        "XY": 145,
+        "BW2": 61,
+        "HGSS": 37,
+        "PT": 28,
+        "DP": 28,
+        "RSE": 63,
+        "GSC": 37,
+        "LGPE": 41,
+        "FRLG": 41,
+        "RBY": 41
+      }
+    },
+    {
+      "name": "golbat",
+      "locations": {
+        "ORAS": 66,
+        "XY": 146,
+        "BW2": 62,
+        "HGSS": 38,
+        "PT": 29,
+        "DP": 29,
+        "RSE": 64,
+        "GSC": 38,
+        "LGPE": 42,
+        "FRLG": 42,
+        "RBY": 42
+      }
+    },
+    {
+      "name": "oddish",
+      "locations": {
+        "ORAS": 91,
+        "XY": 105,
+        "HGSS": 83,
+        "RSE": 88,
+        "GSC": 83,
+        "LGPE": 43,
+        "FRLG": 43,
+        "RBY": 43
+      }
+    },
+    {
+      "name": "gloom",
+      "locations": {
+        "ORAS": 92,
+        "XY": 106,
+        "HGSS": 84,
+        "RSE": 89,
+        "GSC": 84,
+        "LGPE": 44,
+        "FRLG": 44,
+        "RBY": 44
+      }
+    },
+    {
+      "name": "vileplume",
+      "locations": {
+        "ORAS": 93,
+        "XY": 107,
+        "HGSS": 85,
+        "RSE": 90,
+        "GSC": 85,
+        "LGPE": 45,
+        "FRLG": 45,
+        "RBY": 45
+      }
+    },
+    {
+      "name": "paras",
+      "locations": {
+        "HGSS": 70,
+        "GSC": 70,
+        "LGPE": 46,
+        "FRLG": 46,
+        "RBY": 46
+      }
+    },
+    {
+      "name": "parasect",
+      "locations": {
+        "HGSS": 71,
+        "GSC": 71,
+        "LGPE": 47,
+        "FRLG": 47,
+        "RBY": 47
+      }
+    },
+    {
+      "name": "venonat",
+      "locations": {
+        "HGSS": 109,
+        "GSC": 108,
+        "LGPE": 48,
+        "FRLG": 48,
+        "RBY": 48
+      }
+    },
+    {
+      "name": "venomoth",
+      "locations": {
+        "HGSS": 110,
+        "GSC": 109,
+        "LGPE": 49,
+        "FRLG": 49,
+        "RBY": 49
+      }
+    },
+    {
+      "name": "diglett",
+      "locations": {
+        "XY": 307,
+        "HGSS": 134,
+        "GSC": 132,
+        "LGPE": 50,
+        "FRLG": 50,
+        "RBY": 50
+      }
+    },
+    {
+      "name": "dugtrio",
+      "locations": {
+        "XY": 308,
+        "HGSS": 135,
+        "GSC": 133,
+        "LGPE": 51,
+        "FRLG": 51,
+        "RBY": 51
+      }
+    },
+    {
+      "name": "meowth",
+      "locations": {
+        "HGSS": 138,
+        "GSC": 136,
+        "LGPE": 52,
+        "FRLG": 52,
+        "RBY": 52
+      }
+    },
+    {
+      "name": "persian",
+      "locations": {
+        "HGSS": 139,
+        "GSC": 137,
+        "LGPE": 53,
+        "FRLG": 53,
+        "RBY": 53
+      }
+    },
+    {
+      "name": "psyduck",
+      "locations": {
+        "ORAS": 165,
+        "XY": 59,
+        "BW2": 28,
+        "HGSS": 140,
+        "PT": 43,
+        "DP": 43,
+        "RSE": 158,
+        "GSC": 138,
+        "LGPE": 54,
+        "FRLG": 54,
+        "RBY": 54
+      }
+    },
+    {
+      "name": "golduck",
+      "locations": {
+        "ORAS": 166,
+        "XY": 60,
+        "BW2": 29,
+        "HGSS": 141,
+        "PT": 44,
+        "DP": 44,
+        "RSE": 159,
+        "GSC": 139,
+        "LGPE": 55,
+        "FRLG": 55,
+        "RBY": 55
+      }
+    },
+    {
+      "name": "mankey",
+      "locations": {
+        "HGSS": 136,
+        "GSC": 134,
+        "LGPE": 56,
+        "FRLG": 56,
+        "RBY": 56
+      }
+    },
+    {
+      "name": "primeape",
+      "locations": {
+        "HGSS": 137,
+        "GSC": 135,
+        "LGPE": 57,
+        "FRLG": 57,
+        "RBY": 57
+      }
+    },
+    {
+      "name": "growlithe",
+      "locations": {
+        "BW2": 51,
+        "HGSS": 129,
+        "GSC": 127,
+        "LGPE": 58,
+        "FRLG": 58,
+        "RBY": 58
+      }
+    },
+    {
+      "name": "arcanine",
+      "locations": {
+        "BW2": 52,
+        "HGSS": 130,
+        "GSC": 128,
+        "LGPE": 59,
+        "FRLG": 59,
+        "RBY": 59
+      }
+    },
+    {
+      "name": "poliwag",
+      "locations": {
+        "XY": 339,
+        "HGSS": 72,
+        "GSC": 72,
+        "LGPE": 60,
+        "FRLG": 60,
+        "RBY": 60
+      }
+    },
+    {
+      "name": "poliwhirl",
+      "locations": {
+        "XY": 340,
+        "HGSS": 73,
+        "GSC": 73,
+        "LGPE": 61,
+        "FRLG": 61,
+        "RBY": 61
+      }
+    },
+    {
+      "name": "poliwrath",
+      "locations": {
+        "XY": 341,
+        "HGSS": 74,
+        "GSC": 74,
+        "LGPE": 62,
+        "FRLG": 62,
+        "RBY": 62
+      }
+    },
+    {
+      "name": "abra",
+      "locations": {
+        "ORAS": 40,
+        "XY": 102,
+        "HGSS": 89,
+        "PT": 20,
+        "DP": 20,
+        "RSE": 39,
+        "GSC": 89,
+        "LGPE": 63,
+        "FRLG": 63,
+        "RBY": 63
+      }
+    },
+    {
+      "name": "kadabra",
+      "locations": {
+        "ORAS": 41,
+        "XY": 103,
+        "HGSS": 90,
+        "PT": 21,
+        "DP": 21,
+        "RSE": 40,
+        "GSC": 90,
+        "LGPE": 64,
+        "FRLG": 64,
+        "RBY": 64
+      }
+    },
+    {
+      "name": "alakazam",
+      "locations": {
+        "ORAS": 42,
+        "XY": 104,
+        "HGSS": 91,
+        "PT": 22,
+        "DP": 22,
+        "RSE": 41,
+        "GSC": 91,
+        "LGPE": 65,
+        "FRLG": 65,
+        "RBY": 65
+      }
+    },
+    {
+      "name": "machop",
+      "locations": {
+        "ORAS": 75,
+        "XY": 210,
+        "HGSS": 142,
+        "PT": 40,
+        "DP": 40,
+        "RSE": 73,
+        "GSC": 140,
+        "LGPE": 66,
+        "FRLG": 66,
+        "RBY": 66
+      }
+    },
+    {
+      "name": "machoke",
+      "locations": {
+        "ORAS": 76,
+        "XY": 211,
+        "HGSS": 143,
+        "PT": 41,
+        "DP": 41,
+        "RSE": 74,
+        "GSC": 141,
+        "LGPE": 67,
+        "FRLG": 67,
+        "RBY": 67
+      }
+    },
+    {
+      "name": "machamp",
+      "locations": {
+        "ORAS": 77,
+        "XY": 212,
+        "HGSS": 144,
+        "PT": 42,
+        "DP": 42,
+        "RSE": 75,
+        "GSC": 142,
+        "LGPE": 68,
+        "FRLG": 68,
+        "RBY": 68
+      }
+    },
+    {
+      "name": "bellsprout",
+      "locations": {
+        "XY": 332,
+        "HGSS": 64,
+        "GSC": 64,
+        "LGPE": 69,
+        "FRLG": 69,
+        "RBY": 69
+      }
+    },
+    {
+      "name": "weepinbell",
+      "locations": {
+        "XY": 333,
+        "HGSS": 65,
+        "GSC": 65,
+        "LGPE": 70,
+        "FRLG": 70,
+        "RBY": 70
+      }
+    },
+    {
+      "name": "victreebel",
+      "locations": {
+        "XY": 334,
+        "HGSS": 66,
+        "GSC": 66,
+        "LGPE": 71,
+        "FRLG": 71,
+        "RBY": 71
+      }
+    },
+    {
+      "name": "tentacool",
+      "locations": {
+        "ORAS": 68,
+        "XY": 178,
+        "HGSS": 164,
+        "PT": 136,
+        "DP": 136,
+        "RSE": 66,
+        "GSC": 162,
+        "LGPE": 72,
+        "FRLG": 72,
+        "RBY": 72
+      }
+    },
+    {
+      "name": "tentacruel",
+      "locations": {
+        "ORAS": 69,
+        "XY": 179,
+        "HGSS": 165,
+        "PT": 137,
+        "DP": 137,
+        "RSE": 67,
+        "GSC": 163,
+        "LGPE": 73,
+        "FRLG": 73,
+        "RBY": 73
+      }
+    },
+    {
+      "name": "geodude",
+      "locations": {
+        "ORAS": 58,
+        "XY": 315,
+        "HGSS": 34,
+        "PT": 31,
+        "DP": 31,
+        "RSE": 57,
+        "GSC": 34,
+        "LGPE": 74,
+        "FRLG": 74,
+        "RBY": 74
+      }
+    },
+    {
+      "name": "graveler",
+      "locations": {
+        "ORAS": 59,
+        "XY": 316,
+        "HGSS": 35,
+        "PT": 32,
+        "DP": 32,
+        "RSE": 58,
+        "GSC": 35,
+        "LGPE": 75,
+        "FRLG": 75,
+        "RBY": 75
+      }
+    },
+    {
+      "name": "golem",
+      "locations": {
+        "ORAS": 60,
+        "XY": 317,
+        "HGSS": 36,
+        "PT": 33,
+        "DP": 33,
+        "RSE": 59,
+        "GSC": 36,
+        "LGPE": 76,
+        "FRLG": 76,
+        "RBY": 76
+      }
+    },
+    {
+      "name": "ponyta",
+      "locations": {
+        "HGSS": 206,
+        "PT": 90,
+        "DP": 90,
+        "GSC": 201,
+        "LGPE": 77,
+        "FRLG": 77,
+        "RBY": 77
+      }
+    },
+    {
+      "name": "rapidash",
+      "locations": {
+        "HGSS": 207,
+        "PT": 91,
+        "DP": 91,
+        "GSC": 202,
+        "LGPE": 78,
+        "FRLG": 78,
+        "RBY": 78
+      }
+    },
+    {
+      "name": "slowpoke",
+      "locations": {
+        "XY": 286,
+        "HGSS": 80,
+        "GSC": 80,
+        "LGPE": 79,
+        "FRLG": 79,
+        "RBY": 79
+      }
+    },
+    {
+      "name": "slowbro",
+      "locations": {
+        "XY": 287,
+        "HGSS": 81,
+        "GSC": 81,
+        "LGPE": 80,
+        "FRLG": 80,
+        "RBY": 80
+      }
+    },
+    {
+      "name": "magnemite",
+      "locations": {
+        "ORAS": 84,
+        "XY": 375,
+        "BW2": 48,
+        "HGSS": 119,
+        "PT": 178,
+        "RSE": 82,
+        "GSC": 118,
+        "LGPE": 81,
+        "FRLG": 81,
+        "RBY": 81
+      }
+    },
+    {
+      "name": "magneton",
+      "locations": {
+        "ORAS": 85,
+        "XY": 376,
+        "BW2": 49,
+        "HGSS": 120,
+        "PT": 179,
+        "RSE": 83,
+        "GSC": 119,
+        "LGPE": 82,
+        "FRLG": 82,
+        "RBY": 82
+      }
+    },
+    {
+      "name": "farfetchd",
+      "locations": {
+        "XY": 61,
+        "HGSS": 160,
+        "GSC": 158,
+        "LGPE": 83,
+        "FRLG": 83,
+        "RBY": 83
+      }
+    },
+    {
+      "name": "doduo",
+      "locations": {
+        "ORAS": 95,
+        "XY": 94,
+        "HGSS": 204,
+        "RSE": 92,
+        "GSC": 199,
+        "LGPE": 84,
+        "FRLG": 84,
+        "RBY": 84
+      }
+    },
+    {
+      "name": "dodrio",
+      "locations": {
+        "ORAS": 96,
+        "XY": 95,
+        "HGSS": 205,
+        "RSE": 93,
+        "GSC": 200,
+        "LGPE": 85,
+        "FRLG": 85,
+        "RBY": 85
+      }
+    },
+    {
+      "name": "seel",
+      "locations": {
+        "BW2": 265,
+        "HGSS": 178,
+        "GSC": 176,
+        "LGPE": 86,
+        "FRLG": 86,
+        "RBY": 86
+      }
+    },
+    {
+      "name": "dewgong",
+      "locations": {
+        "BW2": 266,
+        "HGSS": 179,
+        "GSC": 177,
+        "LGPE": 87,
+        "FRLG": 87,
+        "RBY": 87
+      }
+    },
+    {
+      "name": "grimer",
+      "locations": {
+        "ORAS": 111,
+        "BW2": 64,
+        "HGSS": 117,
+        "RSE": 106,
+        "GSC": 116,
+        "LGPE": 88,
+        "FRLG": 88,
+        "RBY": 88
+      }
+    },
+    {
+      "name": "muk",
+      "locations": {
+        "ORAS": 112,
+        "BW2": 65,
+        "HGSS": 118,
+        "RSE": 107,
+        "GSC": 117,
+        "LGPE": 89,
+        "FRLG": 89,
+        "RBY": 89
+      }
+    },
+    {
+      "name": "shellder",
+      "locations": {
+        "XY": 189,
+        "HGSS": 171,
+        "GSC": 169,
+        "LGPE": 90,
+        "FRLG": 90,
+        "RBY": 90
+      }
+    },
+    {
+      "name": "cloyster",
+      "locations": {
+        "XY": 190,
+        "HGSS": 172,
+        "GSC": 170,
+        "LGPE": 91,
+        "FRLG": 91,
+        "RBY": 91
+      }
+    },
+    {
+      "name": "gastly",
+      "locations": {
+        "XY": 336,
+        "HGSS": 58,
+        "PT": 69,
+        "DP": 69,
+        "GSC": 58,
+        "LGPE": 92,
+        "FRLG": 92,
+        "RBY": 92
+      }
+    },
+    {
+      "name": "haunter",
+      "locations": {
+        "XY": 337,
+        "HGSS": 59,
+        "PT": 70,
+        "DP": 70,
+        "GSC": 59,
+        "LGPE": 93,
+        "FRLG": 93,
+        "RBY": 93
+      }
+    },
+    {
+      "name": "gengar",
+      "locations": {
+        "XY": 338,
+        "HGSS": 60,
+        "PT": 71,
+        "DP": 71,
+        "GSC": 60,
+        "LGPE": 94,
+        "FRLG": 94,
+        "RBY": 94
+      }
+    },
+    {
+      "name": "onix",
+      "locations": {
+        "XY": 206,
+        "BW2": 71,
+        "HGSS": 62,
+        "PT": 34,
+        "DP": 34,
+        "GSC": 62,
+        "LGPE": 95,
+        "FRLG": 95,
+        "RBY": 95
+      }
+    },
+    {
+      "name": "drowzee",
+      "locations": {
+        "HGSS": 87,
+        "GSC": 87,
+        "LGPE": 96,
+        "FRLG": 96,
+        "RBY": 96
+      }
+    },
+    {
+      "name": "hypno",
+      "locations": {
+        "HGSS": 88,
+        "GSC": 88,
+        "LGPE": 97,
+        "FRLG": 97,
+        "RBY": 97
+      }
+    },
+    {
+      "name": "krabby",
+      "locations": {
+        "HGSS": 166,
+        "GSC": 164,
+        "LGPE": 98,
+        "FRLG": 98,
+        "RBY": 98
+      }
+    },
+    {
+      "name": "kingler",
+      "locations": {
+        "HGSS": 167,
+        "GSC": 165,
+        "LGPE": 99,
+        "FRLG": 99,
+        "RBY": 99
+      }
+    },
+    {
+      "name": "voltorb",
+      "locations": {
+        "ORAS": 87,
+        "XY": 378,
+        "HGSS": 121,
+        "RSE": 84,
+        "GSC": 120,
+        "LGPE": 100,
+        "FRLG": 100,
+        "RBY": 100
+      }
+    },
+    {
+      "name": "electrode",
+      "locations": {
+        "ORAS": 88,
+        "XY": 379,
+        "HGSS": 122,
+        "RSE": 85,
+        "GSC": 121,
+        "LGPE": 101,
+        "FRLG": 101,
+        "RBY": 101
+      }
+    },
+    {
+      "name": "exeggcute",
+      "locations": {
+        "XY": 289,
+        "HGSS": 105,
+        "GSC": 104,
+        "LGPE": 102,
+        "FRLG": 102,
+        "RBY": 102
+      }
+    },
+    {
+      "name": "exeggutor",
+      "locations": {
+        "XY": 290,
+        "HGSS": 106,
+        "GSC": 105,
+        "LGPE": 103,
+        "FRLG": 103,
+        "RBY": 103
+      }
+    },
+    {
+      "name": "cubone",
+      "locations": {
+        "XY": 213,
+        "HGSS": 208,
+        "GSC": 203,
+        "LGPE": 104,
+        "FRLG": 104,
+        "RBY": 104
+      }
+    },
+    {
+      "name": "marowak",
+      "locations": {
+        "XY": 214,
+        "HGSS": 209,
+        "GSC": 204,
+        "LGPE": 105,
+        "FRLG": 105,
+        "RBY": 105
+      }
+    },
+    {
+      "name": "hitmonlee",
+      "locations": {
+        "HGSS": 146,
+        "GSC": 144,
+        "LGPE": 106,
+        "FRLG": 106,
+        "RBY": 106
+      }
+    },
+    {
+      "name": "hitmonchan",
+      "locations": {
+        "HGSS": 147,
+        "GSC": 145,
+        "LGPE": 107,
+        "FRLG": 107,
+        "RBY": 107
+      }
+    },
+    {
+      "name": "lickitung",
+      "locations": {
+        "XY": 440,
+        "BW2": 284,
+        "HGSS": 180,
+        "PT": 161,
+        "GSC": 178,
+        "LGPE": 108,
+        "FRLG": 108,
+        "RBY": 108
+      }
+    },
+    {
+      "name": "koffing",
+      "locations": {
+        "ORAS": 113,
+        "BW2": 46,
+        "HGSS": 115,
+        "RSE": 108,
+        "GSC": 114,
+        "LGPE": 109,
+        "FRLG": 109,
+        "RBY": 109
+      }
+    },
+    {
+      "name": "weezing",
+      "locations": {
+        "ORAS": 114,
+        "BW2": 47,
+        "HGSS": 116,
+        "RSE": 109,
+        "GSC": 115,
+        "LGPE": 110,
+        "FRLG": 110,
+        "RBY": 110
+      }
+    },
+    {
+      "name": "rhyhorn",
+      "locations": {
+        "ORAS": 176,
+        "XY": 203,
+        "HGSS": 211,
+        "PT": 186,
+        "RSE": 169,
+        "GSC": 206,
+        "LGPE": 111,
+        "FRLG": 111,
+        "RBY": 111
+      }
+    },
+    {
+      "name": "rhydon",
+      "locations": {
+        "ORAS": 177,
+        "XY": 204,
+        "HGSS": 212,
+        "PT": 187,
+        "RSE": 170,
+        "GSC": 207,
+        "LGPE": 112,
+        "FRLG": 112,
+        "RBY": 112
+      }
+    },
+    {
+      "name": "chansey",
+      "locations": {
+        "HGSS": 222,
+        "PT": 97,
+        "DP": 97,
+        "GSC": 217,
+        "LGPE": 113,
+        "FRLG": 113,
+        "RBY": 113
+      }
+    },
+    {
+      "name": "tangela",
+      "locations": {
+        "BW2": 217,
+        "HGSS": 182,
+        "PT": 181,
+        "GSC": 179,
+        "LGPE": 114,
+        "FRLG": 114,
+        "RBY": 114
+      }
+    },
+    {
+      "name": "kangaskhan",
+      "locations": {
+        "XY": 215,
+        "HGSS": 210,
+        "GSC": 205,
+        "LGPE": 115,
+        "FRLG": 115,
+        "RBY": 115
+      }
+    },
+    {
+      "name": "horsea",
+      "locations": {
+        "ORAS": 193,
+        "XY": 192,
+        "HGSS": 190,
+        "RSE": 184,
+        "GSC": 186,
+        "LGPE": 116,
+        "FRLG": 116,
+        "RBY": 116
+      }
+    },
+    {
+      "name": "seadra",
+      "locations": {
+        "ORAS": 194,
+        "XY": 193,
+        "HGSS": 191,
+        "RSE": 185,
+        "GSC": 187,
+        "LGPE": 117,
+        "FRLG": 117,
+        "RBY": 117
+      }
+    },
+    {
+      "name": "goldeen",
+      "locations": {
+        "ORAS": 51,
+        "XY": 53,
+        "HGSS": 78,
+        "PT": 78,
+        "DP": 78,
+        "RSE": 50,
+        "GSC": 78,
+        "LGPE": 118,
+        "FRLG": 118,
+        "RBY": 118
+      }
+    },
+    {
+      "name": "seaking",
+      "locations": {
+        "ORAS": 52,
+        "XY": 54,
+        "HGSS": 79,
+        "PT": 79,
+        "DP": 79,
+        "RSE": 51,
+        "GSC": 79,
+        "LGPE": 119,
+        "FRLG": 119,
+        "RBY": 119
+      }
+    },
+    {
+      "name": "staryu",
+      "locations": {
+        "ORAS": 148,
+        "XY": 187,
+        "BW2": 238,
+        "HGSS": 169,
+        "RSE": 143,
+        "GSC": 167,
+        "LGPE": 120,
+        "FRLG": 120,
+        "RBY": 120
+      }
+    },
+    {
+      "name": "starmie",
+      "locations": {
+        "ORAS": 149,
+        "XY": 188,
+        "BW2": 239,
+        "HGSS": 170,
+        "RSE": 144,
+        "GSC": 168,
+        "LGPE": 121,
+        "FRLG": 121,
+        "RBY": 121
+      }
+    },
+    {
+      "name": "mr-mime",
+      "locations": {
+        "XY": 267,
+        "HGSS": 158,
+        "PT": 95,
+        "DP": 95,
+        "GSC": 156,
+        "LGPE": 122,
+        "FRLG": 122,
+        "RBY": 122
+      }
+    },
+    {
+      "name": "scyther",
+      "locations": {
+        "XY": 442,
+        "HGSS": 111,
+        "PT": 195,
+        "GSC": 110,
+        "LGPE": 123,
+        "FRLG": 123,
+        "RBY": 123
+      }
+    },
+    {
+      "name": "jynx",
+      "locations": {
+        "XY": 390,
+        "HGSS": 155,
+        "GSC": 153,
+        "LGPE": 124,
+        "FRLG": 124,
+        "RBY": 124
+      }
+    },
+    {
+      "name": "electabuzz",
+      "locations": {
+        "BW2": 57,
+        "HGSS": 157,
+        "PT": 198,
+        "GSC": 155,
+        "LGPE": 125,
+        "FRLG": 125,
+        "RBY": 125
+      }
+    },
+    {
+      "name": "magmar",
+      "locations": {
+        "BW2": 54,
+        "HGSS": 153,
+        "PT": 201,
+        "GSC": 151,
+        "LGPE": 126,
+        "FRLG": 126,
+        "RBY": 126
+      }
+    },
+    {
+      "name": "pinsir",
+      "locations": {
+        "ORAS": 174,
+        "XY": 283,
+        "BW2": 146,
+        "HGSS": 113,
+        "RSE": 167,
+        "GSC": 112,
+        "LGPE": 127,
+        "FRLG": 127,
+        "RBY": 127
+      }
+    },
+    {
+      "name": "tauros",
+      "locations": {
+        "XY": 278,
+        "HGSS": 150,
+        "GSC": 148,
+        "LGPE": 128,
+        "FRLG": 128,
+        "RBY": 128
+      }
+    },
+    {
+      "name": "magikarp",
+      "locations": {
+        "ORAS": 53,
+        "XY": 49,
+        "HGSS": 76,
+        "PT": 23,
+        "DP": 23,
+        "RSE": 52,
+        "GSC": 76,
+        "LGPE": 129,
+        "FRLG": 129,
+        "RBY": 129
+      }
+    },
+    {
+      "name": "gyarados",
+      "locations": {
+        "ORAS": 54,
+        "XY": 50,
+        "HGSS": 77,
+        "PT": 24,
+        "DP": 24,
+        "RSE": 53,
+        "GSC": 77,
+        "LGPE": 130,
+        "FRLG": 130,
+        "RBY": 130
+      }
+    },
+    {
+      "name": "lapras",
+      "locations": {
+        "XY": 303,
+        "BW2": 242,
+        "HGSS": 224,
+        "GSC": 219,
+        "LGPE": 131,
+        "FRLG": 131,
+        "RBY": 131
+      }
+    },
+    {
+      "name": "ditto",
+      "locations": {
+        "XY": 444,
+        "BW2": 261,
+        "HGSS": 92,
+        "GSC": 92,
+        "LGPE": 132,
+        "FRLG": 132,
+        "RBY": 132
+      }
+    },
+    {
+      "name": "eevee",
+      "locations": {
+        "XY": 230,
+        "BW2": 91,
+        "HGSS": 184,
+        "PT": 163,
+        "GSC": 180,
+        "LGPE": 133,
+        "FRLG": 133,
+        "RBY": 133
+      }
+    },
+    {
+      "name": "vaporeon",
+      "locations": {
+        "XY": 231,
+        "BW2": 92,
+        "HGSS": 185,
+        "PT": 164,
+        "GSC": 181,
+        "LGPE": 134,
+        "FRLG": 134,
+        "RBY": 134
+      }
+    },
+    {
+      "name": "jolteon",
+      "locations": {
+        "XY": 232,
+        "BW2": 93,
+        "HGSS": 186,
+        "PT": 165,
+        "GSC": 182,
+        "LGPE": 135,
+        "FRLG": 135,
+        "RBY": 135
+      }
+    },
+    {
+      "name": "flareon",
+      "locations": {
+        "XY": 233,
+        "BW2": 94,
+        "HGSS": 187,
+        "PT": 166,
+        "GSC": 183,
+        "LGPE": 136,
+        "FRLG": 136,
+        "RBY": 136
+      }
+    },
+    {
+      "name": "porygon",
+      "locations": {
+        "HGSS": 220,
+        "PT": 192,
+        "GSC": 215,
+        "LGPE": 137,
+        "FRLG": 137,
+        "RBY": 137
+      }
+    },
+    {
+      "name": "omanyte",
+      "locations": {
+        "HGSS": 225,
+        "GSC": 220,
+        "LGPE": 138,
+        "FRLG": 138,
+        "RBY": 138
+      }
+    },
+    {
+      "name": "omastar",
+      "locations": {
+        "HGSS": 226,
+        "GSC": 221,
+        "LGPE": 139,
+        "FRLG": 139,
+        "RBY": 139
+      }
+    },
+    {
+      "name": "kabuto",
+      "locations": {
+        "HGSS": 227,
+        "GSC": 222,
+        "LGPE": 140,
+        "FRLG": 140,
+        "RBY": 140
+      }
+    },
+    {
+      "name": "kabutops",
+      "locations": {
+        "HGSS": 228,
+        "GSC": 223,
+        "LGPE": 141,
+        "FRLG": 141,
+        "RBY": 141
+      }
+    },
+    {
+      "name": "aerodactyl",
+      "locations": {
+        "XY": 221,
+        "HGSS": 229,
+        "GSC": 224,
+        "LGPE": 142,
+        "FRLG": 142,
+        "RBY": 142
+      }
+    },
+    {
+      "name": "snorlax",
+      "locations": {
+        "XY": 139,
+        "HGSS": 230,
+        "PT": 113,
+        "DP": 113,
+        "GSC": 225,
+        "LGPE": 143,
+        "FRLG": 143,
+        "RBY": 143
+      }
+    },
+    {
+      "name": "articuno",
+      "locations": {
+        "XY": 304,
+        "HGSS": 240,
+        "GSC": 235,
+        "LGPE": 144,
+        "FRLG": 144,
+        "RBY": 144
+      }
+    },
+    {
+      "name": "zapdos",
+      "locations": {
+        "XY": 305,
+        "HGSS": 241,
+        "GSC": 236,
+        "LGPE": 145,
+        "FRLG": 145,
+        "RBY": 145
+      }
+    },
+    {
+      "name": "moltres",
+      "locations": {
+        "XY": 306,
+        "HGSS": 242,
+        "GSC": 237,
+        "LGPE": 146,
+        "FRLG": 146,
+        "RBY": 146
+      }
+    },
+    {
+      "name": "dratini",
+      "locations": {
+        "XY": 451,
+        "HGSS": 246,
+        "GSC": 241,
+        "LGPE": 147,
+        "FRLG": 147,
+        "RBY": 147
+      }
+    },
+    {
+      "name": "dragonair",
+      "locations": {
+        "XY": 452,
+        "HGSS": 247,
+        "GSC": 242,
+        "LGPE": 148,
+        "FRLG": 148,
+        "RBY": 148
+      }
+    },
+    {
+      "name": "dragonite",
+      "locations": {
+        "XY": 453,
+        "HGSS": 248,
+        "GSC": 243,
+        "LGPE": 149,
+        "FRLG": 149,
+        "RBY": 149
+      }
+    },
+    {
+      "name": "mewtwo",
+      "locations": {
+        "XY": 457,
+        "HGSS": 254,
+        "GSC": 249,
+        "LGPE": 150,
+        "FRLG": 150,
+        "RBY": 150
+      }
+    },
+    {
+      "name": "mew",
+      "locations": {
+        "HGSS": 255,
+        "GSC": 250,
+        "LGPE": 151,
+        "FRLG": 151,
+        "RBY": 151
+      }
+    },
+    {
+      "name": "chikorita",
+      "locations": {
+        "HGSS": 1,
+        "GSC": 1
+      }
+    },
+    {
+      "name": "bayleef",
+      "locations": {
+        "HGSS": 2,
+        "GSC": 2
+      }
+    },
+    {
+      "name": "meganium",
+      "locations": {
+        "HGSS": 3,
+        "GSC": 3
+      }
+    },
+    {
+      "name": "cyndaquil",
+      "locations": {
+        "HGSS": 4,
+        "GSC": 4
+      }
+    },
+    {
+      "name": "quilava",
+      "locations": {
+        "HGSS": 5,
+        "GSC": 5
+      }
+    },
+    {
+      "name": "typhlosion",
+      "locations": {
+        "HGSS": 6,
+        "GSC": 6
+      }
+    },
+    {
+      "name": "totodile",
+      "locations": {
+        "HGSS": 7,
+        "GSC": 7
+      }
+    },
+    {
+      "name": "croconaw",
+      "locations": {
+        "HGSS": 8,
+        "GSC": 8
+      }
+    },
+    {
+      "name": "feraligatr",
+      "locations": {
+        "HGSS": 9,
+        "GSC": 9
+      }
+    },
+    {
+      "name": "sentret",
+      "locations": {
+        "XY": 109,
+        "HGSS": 19,
+        "GSC": 19
+      }
+    },
+    {
+      "name": "furret",
+      "locations": {
+        "XY": 110,
+        "HGSS": 20,
+        "GSC": 20
+      }
+    },
+    {
+      "name": "hoothoot",
+      "locations": {
+        "XY": 423,
+        "HGSS": 15,
+        "PT": 106,
+        "DP": 106,
+        "GSC": 15
+      }
+    },
+    {
+      "name": "noctowl",
+      "locations": {
+        "XY": 424,
+        "HGSS": 16,
+        "PT": 107,
+        "DP": 107,
+        "GSC": 16
+      }
+    },
+    {
+      "name": "ledyba",
+      "locations": {
+        "XY": 74,
+        "HGSS": 30,
+        "GSC": 30
+      }
+    },
+    {
+      "name": "ledian",
+      "locations": {
+        "XY": 75,
+        "HGSS": 31,
+        "GSC": 31
+      }
+    },
+    {
+      "name": "spinarak",
+      "locations": {
+        "XY": 413,
+        "HGSS": 32,
+        "GSC": 32
+      }
+    },
+    {
+      "name": "ariados",
+      "locations": {
+        "XY": 414,
+        "HGSS": 33,
+        "GSC": 33
+      }
+    },
+    {
+      "name": "crobat",
+      "locations": {
+        "ORAS": 67,
+        "XY": 147,
+        "BW2": 63,
+        "HGSS": 39,
+        "PT": 30,
+        "DP": 30,
+        "RSE": 65,
+        "GSC": 39
+      }
+    },
+    {
+      "name": "chinchou",
+      "locations": {
+        "ORAS": 190,
+        "XY": 300,
+        "HGSS": 176,
+        "RSE": 181,
+        "GSC": 174
+      }
+    },
+    {
+      "name": "lanturn",
+      "locations": {
+        "ORAS": 191,
+        "XY": 301,
+        "HGSS": 177,
+        "RSE": 182,
+        "GSC": 175
+      }
+    },
+    {
+      "name": "pichu",
+      "locations": {
+        "ORAS": 162,
+        "XY": 35,
+        "HGSS": 21,
+        "PT": 103,
+        "DP": 103,
+        "RSE": 155,
+        "GSC": 21
+      }
+    },
+    {
+      "name": "cleffa",
+      "locations": {
+        "BW2": 88,
+        "HGSS": 40,
+        "PT": 99,
+        "DP": 99,
+        "GSC": 40
+      }
+    },
+    {
+      "name": "igglybuff",
+      "locations": {
+        "ORAS": 142,
+        "XY": 425,
+        "BW2": 281,
+        "HGSS": 43,
+        "RSE": 137,
+        "GSC": 43
+      }
+    },
+    {
+      "name": "togepi",
+      "locations": {
+        "HGSS": 46,
+        "PT": 173,
+        "GSC": 46
+      }
+    },
+    {
+      "name": "togetic",
+      "locations": {
+        "HGSS": 47,
+        "PT": 174,
+        "GSC": 47
+      }
+    },
+    {
+      "name": "natu",
+      "locations": {
+        "ORAS": 169,
+        "HGSS": 161,
+        "RSE": 162,
+        "GSC": 159
+      }
+    },
+    {
+      "name": "xatu",
+      "locations": {
+        "ORAS": 170,
+        "HGSS": 162,
+        "RSE": 163,
+        "GSC": 160
+      }
+    },
+    {
+      "name": "mareep",
+      "locations": {
+        "XY": 280,
+        "BW2": 25,
+        "HGSS": 53,
+        "GSC": 53
+      }
+    },
+    {
+      "name": "flaaffy",
+      "locations": {
+        "XY": 281,
+        "BW2": 26,
+        "HGSS": 54,
+        "GSC": 54
+      }
+    },
+    {
+      "name": "ampharos",
+      "locations": {
+        "XY": 282,
+        "BW2": 27,
+        "HGSS": 55,
+        "GSC": 55
+      }
+    },
+    {
+      "name": "bellossom",
+      "locations": {
+        "ORAS": 94,
+        "XY": 108,
+        "HGSS": 86,
+        "RSE": 91,
+        "GSC": 86
+      }
+    },
+    {
+      "name": "marill",
+      "locations": {
+        "ORAS": 56,
+        "XY": 42,
+        "BW2": 31,
+        "HGSS": 132,
+        "PT": 125,
+        "DP": 125,
+        "RSE": 55,
+        "GSC": 130
+      }
+    },
+    {
+      "name": "azumarill",
+      "locations": {
+        "ORAS": 57,
+        "XY": 43,
+        "BW2": 32,
+        "HGSS": 133,
+        "PT": 126,
+        "DP": 126,
+        "RSE": 56,
+        "GSC": 131
+      }
+    },
+    {
+      "name": "sudowoodo",
+      "locations": {
+        "XY": 436,
+        "HGSS": 107,
+        "PT": 93,
+        "DP": 93,
+        "GSC": 106
+      }
+    },
+    {
+      "name": "politoed",
+      "locations": {
+        "XY": 342,
+        "HGSS": 75,
+        "GSC": 75
+      }
+    },
+    {
+      "name": "hoppip",
+      "locations": {
+        "XY": 135,
+        "HGSS": 67,
+        "GSC": 67
+      }
+    },
+    {
+      "name": "skiploom",
+      "locations": {
+        "XY": 136,
+        "HGSS": 68,
+        "GSC": 68
+      }
+    },
+    {
+      "name": "jumpluff",
+      "locations": {
+        "XY": 137,
+        "HGSS": 69,
+        "GSC": 69
+      }
+    },
+    {
+      "name": "aipom",
+      "locations": {
+        "HGSS": 123,
+        "PT": 63,
+        "DP": 63,
+        "GSC": 122
+      }
+    },
+    {
+      "name": "sunkern",
+      "locations": {
+        "BW2": 20,
+        "HGSS": 103,
+        "GSC": 102
+      }
+    },
+    {
+      "name": "sunflora",
+      "locations": {
+        "BW2": 21,
+        "HGSS": 104,
+        "GSC": 103
+      }
+    },
+    {
+      "name": "yanma",
+      "locations": {
+        "XY": 240,
+        "BW2": 286,
+        "HGSS": 101,
+        "PT": 183,
+        "GSC": 101
+      }
+    },
+    {
+      "name": "wooper",
+      "locations": {
+        "XY": 323,
+        "HGSS": 56,
+        "PT": 117,
+        "DP": 117,
+        "GSC": 56
+      }
+    },
+    {
+      "name": "quagsire",
+      "locations": {
+        "XY": 324,
+        "HGSS": 57,
+        "PT": 118,
+        "DP": 118,
+        "GSC": 57
+      }
+    },
+    {
+      "name": "espeon",
+      "locations": {
+        "XY": 234,
+        "BW2": 95,
+        "HGSS": 188,
+        "PT": 167,
+        "GSC": 184
+      }
+    },
+    {
+      "name": "umbreon",
+      "locations": {
+        "XY": 235,
+        "BW2": 96,
+        "HGSS": 189,
+        "PT": 168,
+        "GSC": 185
+      }
+    },
+    {
+      "name": "murkrow",
+      "locations": {
+        "XY": 357,
+        "HGSS": 213,
+        "PT": 74,
+        "DP": 74,
+        "GSC": 208
+      }
+    },
+    {
+      "name": "slowking",
+      "locations": {
+        "XY": 288,
+        "HGSS": 82,
+        "GSC": 82
+      }
+    },
+    {
+      "name": "misdreavus",
+      "locations": {
+        "HGSS": 219,
+        "PT": 72,
+        "DP": 72,
+        "GSC": 214
+      }
+    },
+    {
+      "name": "unown",
+      "locations": {
+        "HGSS": 61,
+        "PT": 114,
+        "DP": 114,
+        "GSC": 61
+      }
+    },
+    {
+      "name": "wobbuffet",
+      "locations": {
+        "ORAS": 168,
+        "XY": 272,
+        "HGSS": 108,
+        "RSE": 161,
+        "GSC": 107
+      }
+    },
+    {
+      "name": "girafarig",
+      "locations": {
+        "ORAS": 171,
+        "HGSS": 149,
+        "PT": 121,
+        "DP": 121,
+        "RSE": 164,
+        "GSC": 147
+      }
+    },
+    {
+      "name": "pineco",
+      "locations": {
+        "HGSS": 93,
+        "GSC": 93
+      }
+    },
+    {
+      "name": "forretress",
+      "locations": {
+        "HGSS": 94,
+        "GSC": 94
+      }
+    },
+    {
+      "name": "dunsparce",
+      "locations": {
+        "XY": 40,
+        "BW2": 35,
+        "HGSS": 52,
+        "GSC": 52
+      }
+    },
+    {
+      "name": "gligar",
+      "locations": {
+        "XY": 421,
+        "BW2": 221,
+        "HGSS": 193,
+        "PT": 153,
+        "GSC": 189
+      }
+    },
+    {
+      "name": "steelix",
+      "locations": {
+        "XY": 207,
+        "BW2": 72,
+        "HGSS": 63,
+        "PT": 35,
+        "DP": 35,
+        "GSC": 63
+      }
+    },
+    {
+      "name": "snubbull",
+      "locations": {
+        "XY": 224,
+        "HGSS": 125,
+        "GSC": 123
+      }
+    },
+    {
+      "name": "granbull",
+      "locations": {
+        "XY": 225,
+        "HGSS": 126,
+        "GSC": 124
+      }
+    },
+    {
+      "name": "qwilfish",
+      "locations": {
+        "XY": 191,
+        "HGSS": 163,
+        "GSC": 161
+      }
+    },
+    {
+      "name": "scizor",
+      "locations": {
+        "XY": 443,
+        "HGSS": 112,
+        "PT": 196,
+        "GSC": 111
+      }
+    },
+    {
+      "name": "shuckle",
+      "locations": {
+        "XY": 320,
+        "BW2": 232,
+        "HGSS": 168,
+        "GSC": 166
+      }
+    },
+    {
+      "name": "heracross",
+      "locations": {
+        "ORAS": 175,
+        "XY": 284,
+        "BW2": 145,
+        "HGSS": 114,
+        "PT": 62,
+        "DP": 62,
+        "RSE": 168,
+        "GSC": 113
+      }
+    },
+    {
+      "name": "sneasel",
+      "locations": {
+        "XY": 397,
+        "BW2": 252,
+        "HGSS": 218,
+        "PT": 144,
+        "DP": 144,
+        "GSC": 213
+      }
+    },
+    {
+      "name": "teddiursa",
+      "locations": {
+        "XY": 438,
+        "HGSS": 198,
+        "GSC": 193
+      }
+    },
+    {
+      "name": "ursaring",
+      "locations": {
+        "XY": 439,
+        "HGSS": 199,
+        "GSC": 194
+      }
+    },
+    {
+      "name": "slugma",
+      "locations": {
+        "ORAS": 108,
+        "XY": 318,
+        "HGSS": 216,
+        "RSE": 103,
+        "GSC": 211
+      }
+    },
+    {
+      "name": "magcargo",
+      "locations": {
+        "ORAS": 109,
+        "XY": 319,
+        "HGSS": 217,
+        "RSE": 104,
+        "GSC": 212
+      }
+    },
+    {
+      "name": "swinub",
+      "locations": {
+        "XY": 382,
+        "BW2": 258,
+        "HGSS": 195,
+        "PT": 203,
+        "GSC": 191
+      }
+    },
+    {
+      "name": "piloswine",
+      "locations": {
+        "XY": 383,
+        "BW2": 259,
+        "HGSS": 196,
+        "PT": 204,
+        "GSC": 192
+      }
+    },
+    {
+      "name": "corsola",
+      "locations": {
+        "ORAS": 189,
+        "XY": 299,
+        "BW2": 237,
+        "HGSS": 173,
+        "RSE": 180,
+        "GSC": 171
+      }
+    },
+    {
+      "name": "remoraid",
+      "locations": {
+        "XY": 297,
+        "BW2": 235,
+        "HGSS": 174,
+        "PT": 132,
+        "DP": 132,
+        "GSC": 172
+      }
+    },
+    {
+      "name": "octillery",
+      "locations": {
+        "XY": 298,
+        "BW2": 236,
+        "HGSS": 175,
+        "PT": 133,
+        "DP": 133,
+        "GSC": 173
+      }
+    },
+    {
+      "name": "delibird",
+      "locations": {
+        "XY": 396,
+        "BW2": 254,
+        "HGSS": 194,
+        "GSC": 190
+      }
+    },
+    {
+      "name": "mantine",
+      "locations": {
+        "XY": 293,
+        "BW2": 234,
+        "HGSS": 202,
+        "PT": 141,
+        "DP": 141,
+        "GSC": 197
+      }
+    },
+    {
+      "name": "skarmory",
+      "locations": {
+        "ORAS": 120,
+        "XY": 418,
+        "BW2": 203,
+        "HGSS": 203,
+        "RSE": 115,
+        "GSC": 198
+      }
+    },
+    {
+      "name": "houndour",
+      "locations": {
+        "XY": 228,
+        "HGSS": 214,
+        "PT": 176,
+        "GSC": 209
+      }
+    },
+    {
+      "name": "houndoom",
+      "locations": {
+        "XY": 229,
+        "HGSS": 215,
+        "PT": 177,
+        "GSC": 210
+      }
+    },
+    {
+      "name": "kingdra",
+      "locations": {
+        "ORAS": 195,
+        "XY": 194,
+        "HGSS": 192,
+        "RSE": 186,
+        "GSC": 188
+      }
+    },
+    {
+      "name": "phanpy",
+      "locations": {
+        "ORAS": 172,
+        "HGSS": 200,
+        "RSE": 165,
+        "GSC": 195
+      }
+    },
+    {
+      "name": "donphan",
+      "locations": {
+        "ORAS": 173,
+        "HGSS": 201,
+        "RSE": 166,
+        "GSC": 196
+      }
+    },
+    {
+      "name": "porygon2",
+      "locations": {
+        "HGSS": 221,
+        "PT": 193,
+        "GSC": 216
+      }
+    },
+    {
+      "name": "stantler",
+      "locations": {
+        "HGSS": 131,
+        "GSC": 129
+      }
+    },
+    {
+      "name": "smeargle",
+      "locations": {
+        "XY": 124,
+        "HGSS": 159,
+        "GSC": 157
+      }
+    },
+    {
+      "name": "tyrogue",
+      "locations": {
+        "HGSS": 145,
+        "GSC": 143
+      }
+    },
+    {
+      "name": "hitmontop",
+      "locations": {
+        "HGSS": 148,
+        "GSC": 146
+      }
+    },
+    {
+      "name": "elekid",
+      "locations": {
+        "BW2": 56,
+        "HGSS": 156,
+        "PT": 197,
+        "GSC": 154
+      }
+    },
+    {
+      "name": "smoochum",
+      "locations": {
+        "XY": 389,
+        "HGSS": 154,
+        "GSC": 152
+      }
+    },
+    {
+      "name": "magby",
+      "locations": {
+        "BW2": 53,
+        "HGSS": 152,
+        "PT": 200,
+        "GSC": 150
+      }
+    },
+    {
+      "name": "miltank",
+      "locations": {
+        "XY": 279,
+        "HGSS": 151,
+        "GSC": 149
+      }
+    },
+    {
+      "name": "blissey",
+      "locations": {
+        "HGSS": 223,
+        "PT": 98,
+        "DP": 98,
+        "GSC": 218
+      }
+    },
+    {
+      "name": "raikou",
+      "locations": {
+        "HGSS": 243,
+        "GSC": 238
+      }
+    },
+    {
+      "name": "entei",
+      "locations": {
+        "HGSS": 244,
+        "GSC": 239
+      }
+    },
+    {
+      "name": "suicune",
+      "locations": {
+        "HGSS": 245,
+        "GSC": 240
+      }
+    },
+    {
+      "name": "larvitar",
+      "locations": {
+        "XY": 408,
+        "BW2": 292,
+        "HGSS": 249,
+        "GSC": 244
+      }
+    },
+    {
+      "name": "pupitar",
+      "locations": {
+        "XY": 409,
+        "BW2": 293,
+        "HGSS": 250,
+        "GSC": 245
+      }
+    },
+    {
+      "name": "tyranitar",
+      "locations": {
+        "XY": 410,
+        "BW2": 294,
+        "HGSS": 251,
+        "GSC": 246
+      }
+    },
+    {
+      "name": "lugia",
+      "locations": {
+        "HGSS": 252,
+        "GSC": 247
+      }
+    },
+    {
+      "name": "ho-oh",
+      "locations": {
+        "HGSS": 253,
+        "GSC": 248
+      }
+    },
+    {
+      "name": "celebi",
+      "locations": {
+        "HGSS": 256,
+        "GSC": 251
+      }
+    },
+    {
+      "name": "treecko",
+      "locations": {
+        "ORAS": 1,
+        "RSE": 1
+      }
+    },
+    {
+      "name": "grovyle",
+      "locations": {
+        "ORAS": 2,
+        "RSE": 2
+      }
+    },
+    {
+      "name": "sceptile",
+      "locations": {
+        "ORAS": 3,
+        "RSE": 3
+      }
+    },
+    {
+      "name": "torchic",
+      "locations": {
+        "ORAS": 4,
+        "RSE": 4
+      }
+    },
+    {
+      "name": "combusken",
+      "locations": {
+        "ORAS": 5,
+        "RSE": 5
+      }
+    },
+    {
+      "name": "blaziken",
+      "locations": {
+        "ORAS": 6,
+        "RSE": 6
+      }
+    },
+    {
+      "name": "mudkip",
+      "locations": {
+        "ORAS": 7,
+        "RSE": 7
+      }
+    },
+    {
+      "name": "marshtomp",
+      "locations": {
+        "ORAS": 8,
+        "RSE": 8
+      }
+    },
+    {
+      "name": "swampert",
+      "locations": {
+        "ORAS": 9,
+        "RSE": 9
+      }
+    },
+    {
+      "name": "poochyena",
+      "locations": {
+        "ORAS": 10,
+        "XY": 350,
+        "RSE": 10
+      }
+    },
+    {
+      "name": "mightyena",
+      "locations": {
+        "ORAS": 11,
+        "XY": 351,
+        "RSE": 11
+      }
+    },
+    {
+      "name": "zigzagoon",
+      "locations": {
+        "ORAS": 12,
+        "XY": 12,
+        "RSE": 12
+      }
+    },
+    {
+      "name": "linoone",
+      "locations": {
+        "ORAS": 13,
+        "XY": 13,
+        "RSE": 13
+      }
+    },
+    {
+      "name": "wurmple",
+      "locations": {
+        "ORAS": 14,
+        "PT": 48,
+        "DP": 48,
+        "RSE": 14
+      }
+    },
+    {
+      "name": "silcoon",
+      "locations": {
+        "ORAS": 15,
+        "PT": 49,
+        "DP": 49,
+        "RSE": 15
+      }
+    },
+    {
+      "name": "beautifly",
+      "locations": {
+        "ORAS": 16,
+        "PT": 50,
+        "DP": 50,
+        "RSE": 16
+      }
+    },
+    {
+      "name": "cascoon",
+      "locations": {
+        "ORAS": 17,
+        "PT": 51,
+        "DP": 51,
+        "RSE": 17
+      }
+    },
+    {
+      "name": "dustox",
+      "locations": {
+        "ORAS": 18,
+        "PT": 52,
+        "DP": 52,
+        "RSE": 18
+      }
+    },
+    {
+      "name": "lotad",
+      "locations": {
+        "ORAS": 19,
+        "XY": 361,
+        "RSE": 19
+      }
+    },
+    {
+      "name": "lombre",
+      "locations": {
+        "ORAS": 20,
+        "XY": 362,
+        "RSE": 20
+      }
+    },
+    {
+      "name": "ludicolo",
+      "locations": {
+        "ORAS": 21,
+        "XY": 363,
+        "RSE": 21
+      }
+    },
+    {
+      "name": "seedot",
+      "locations": {
+        "ORAS": 22,
+        "RSE": 22
+      }
+    },
+    {
+      "name": "nuzleaf",
+      "locations": {
+        "ORAS": 23,
+        "RSE": 23
+      }
+    },
+    {
+      "name": "shiftry",
+      "locations": {
+        "ORAS": 24,
+        "RSE": 24
+      }
+    },
+    {
+      "name": "taillow",
+      "locations": {
+        "ORAS": 25,
+        "XY": 172,
+        "RSE": 25
+      }
+    },
+    {
+      "name": "swellow",
+      "locations": {
+        "ORAS": 26,
+        "XY": 173,
+        "RSE": 26
+      }
+    },
+    {
+      "name": "wingull",
+      "locations": {
+        "ORAS": 27,
+        "XY": 170,
+        "BW2": 212,
+        "PT": 119,
+        "DP": 119,
+        "RSE": 27
+      }
+    },
+    {
+      "name": "pelipper",
+      "locations": {
+        "ORAS": 28,
+        "XY": 171,
+        "BW2": 213,
+        "PT": 120,
+        "DP": 120,
+        "RSE": 28
+      }
+    },
+    {
+      "name": "ralts",
+      "locations": {
+        "ORAS": 29,
+        "XY": 64,
+        "PT": 157,
+        "RSE": 29
+      }
+    },
+    {
+      "name": "kirlia",
+      "locations": {
+        "ORAS": 30,
+        "XY": 65,
+        "PT": 158,
+        "RSE": 30
+      }
+    },
+    {
+      "name": "gardevoir",
+      "locations": {
+        "ORAS": 31,
+        "XY": 66,
+        "PT": 159,
+        "RSE": 31
+      }
+    },
+    {
+      "name": "surskit",
+      "locations": {
+        "ORAS": 33,
+        "XY": 47,
+        "RSE": 32
+      }
+    },
+    {
+      "name": "masquerain",
+      "locations": {
+        "ORAS": 34,
+        "XY": 48,
+        "RSE": 33
+      }
+    },
+    {
+      "name": "shroomish",
+      "locations": {
+        "ORAS": 35,
+        "RSE": 34
+      }
+    },
+    {
+      "name": "breloom",
+      "locations": {
+        "ORAS": 36,
+        "RSE": 35
+      }
+    },
+    {
+      "name": "slakoth",
+      "locations": {
+        "ORAS": 37,
+        "BW2": 276,
+        "RSE": 36
+      }
+    },
+    {
+      "name": "vigoroth",
+      "locations": {
+        "ORAS": 38,
+        "BW2": 277,
+        "RSE": 37
+      }
+    },
+    {
+      "name": "slaking",
+      "locations": {
+        "ORAS": 39,
+        "BW2": 278,
+        "RSE": 38
+      }
+    },
+    {
+      "name": "nincada",
+      "locations": {
+        "ORAS": 43,
+        "XY": 111,
+        "RSE": 42
+      }
+    },
+    {
+      "name": "ninjask",
+      "locations": {
+        "ORAS": 44,
+        "XY": 112,
+        "RSE": 43
+      }
+    },
+    {
+      "name": "shedinja",
+      "locations": {
+        "ORAS": 45,
+        "XY": 113,
+        "RSE": 44
+      }
+    },
+    {
+      "name": "whismur",
+      "locations": {
+        "ORAS": 46,
+        "XY": 140,
+        "RSE": 45
+      }
+    },
+    {
+      "name": "loudred",
+      "locations": {
+        "ORAS": 47,
+        "XY": 141,
+        "RSE": 46
+      }
+    },
+    {
+      "name": "exploud",
+      "locations": {
+        "ORAS": 48,
+        "XY": 142,
+        "RSE": 47
+      }
+    },
+    {
+      "name": "makuhita",
+      "locations": {
+        "ORAS": 49,
+        "XY": 248,
+        "RSE": 48
+      }
+    },
+    {
+      "name": "hariyama",
+      "locations": {
+        "ORAS": 50,
+        "XY": 249,
+        "RSE": 49
+      }
+    },
+    {
+      "name": "azurill",
+      "locations": {
+        "ORAS": 55,
+        "XY": 41,
+        "BW2": 30,
+        "PT": 124,
+        "DP": 124,
+        "RSE": 54
+      }
+    },
+    {
+      "name": "nosepass",
+      "locations": {
+        "ORAS": 61,
+        "XY": 246,
+        "BW2": 164,
+        "PT": 155,
+        "RSE": 60
+      }
+    },
+    {
+      "name": "skitty",
+      "locations": {
+        "ORAS": 63,
+        "XY": 78,
+        "BW2": 78,
+        "RSE": 61
+      }
+    },
+    {
+      "name": "delcatty",
+      "locations": {
+        "ORAS": 64,
+        "XY": 79,
+        "BW2": 79,
+        "RSE": 62
+      }
+    },
+    {
+      "name": "sableye",
+      "locations": {
+        "ORAS": 70,
+        "XY": 276,
+        "RSE": 68
+      }
+    },
+    {
+      "name": "mawile",
+      "locations": {
+        "ORAS": 71,
+        "XY": 216,
+        "RSE": 69
+      }
+    },
+    {
+      "name": "aron",
+      "locations": {
+        "ORAS": 72,
+        "XY": 405,
+        "BW2": 166,
+        "RSE": 70
+      }
+    },
+    {
+      "name": "lairon",
+      "locations": {
+        "ORAS": 73,
+        "XY": 406,
+        "BW2": 167,
+        "RSE": 71
+      }
+    },
+    {
+      "name": "aggron",
+      "locations": {
+        "ORAS": 74,
+        "XY": 407,
+        "BW2": 168,
+        "RSE": 72
+      }
+    },
+    {
+      "name": "meditite",
+      "locations": {
+        "ORAS": 78,
+        "XY": 143,
+        "PT": 86,
+        "DP": 86,
+        "RSE": 76
+      }
+    },
+    {
+      "name": "medicham",
+      "locations": {
+        "ORAS": 79,
+        "XY": 144,
+        "PT": 87,
+        "DP": 87,
+        "RSE": 77
+      }
+    },
+    {
+      "name": "electrike",
+      "locations": {
+        "ORAS": 80,
+        "XY": 226,
+        "RSE": 78
+      }
+    },
+    {
+      "name": "manectric",
+      "locations": {
+        "ORAS": 81,
+        "XY": 227,
+        "RSE": 79
+      }
+    },
+    {
+      "name": "plusle",
+      "locations": {
+        "ORAS": 82,
+        "XY": 96,
+        "RSE": 80
+      }
+    },
+    {
+      "name": "minun",
+      "locations": {
+        "ORAS": 83,
+        "XY": 97,
+        "RSE": 81
+      }
+    },
+    {
+      "name": "volbeat",
+      "locations": {
+        "ORAS": 89,
+        "XY": 133,
+        "RSE": 86
+      }
+    },
+    {
+      "name": "illumise",
+      "locations": {
+        "ORAS": 90,
+        "XY": 134,
+        "RSE": 87
+      }
+    },
+    {
+      "name": "roselia",
+      "locations": {
+        "ORAS": 98,
+        "XY": 72,
+        "BW2": 134,
+        "PT": 26,
+        "DP": 26,
+        "RSE": 94
+      }
+    },
+    {
+      "name": "gulpin",
+      "locations": {
+        "ORAS": 100,
+        "XY": 98,
+        "RSE": 95
+      }
+    },
+    {
+      "name": "swalot",
+      "locations": {
+        "ORAS": 101,
+        "XY": 99,
+        "RSE": 96
+      }
+    },
+    {
+      "name": "carvanha",
+      "locations": {
+        "ORAS": 102,
+        "XY": 55,
+        "RSE": 97
+      }
+    },
+    {
+      "name": "sharpedo",
+      "locations": {
+        "ORAS": 103,
+        "XY": 56,
+        "RSE": 98
+      }
+    },
+    {
+      "name": "wailmer",
+      "locations": {
+        "ORAS": 104,
+        "XY": 180,
+        "BW2": 240,
+        "RSE": 99
+      }
+    },
+    {
+      "name": "wailord",
+      "locations": {
+        "ORAS": 105,
+        "XY": 181,
+        "BW2": 241,
+        "RSE": 100
+      }
+    },
+    {
+      "name": "numel",
+      "locations": {
+        "ORAS": 106,
+        "BW2": 204,
+        "RSE": 101
+      }
+    },
+    {
+      "name": "camerupt",
+      "locations": {
+        "ORAS": 107,
+        "BW2": 205,
+        "RSE": 102
+      }
+    },
+    {
+      "name": "torkoal",
+      "locations": {
+        "ORAS": 110,
+        "XY": 402,
+        "RSE": 105
+      }
+    },
+    {
+      "name": "spoink",
+      "locations": {
+        "ORAS": 115,
+        "XY": 160,
+        "BW2": 206,
+        "RSE": 110
+      }
+    },
+    {
+      "name": "grumpig",
+      "locations": {
+        "ORAS": 116,
+        "XY": 161,
+        "BW2": 207,
+        "RSE": 111
+      }
+    },
+    {
+      "name": "spinda",
+      "locations": {
+        "ORAS": 119,
+        "XY": 437,
+        "RSE": 114
+      }
+    },
+    {
+      "name": "trapinch",
+      "locations": {
+        "ORAS": 121,
+        "XY": 309,
+        "BW2": 121,
+        "RSE": 116
+      }
+    },
+    {
+      "name": "vibrava",
+      "locations": {
+        "ORAS": 122,
+        "XY": 310,
+        "BW2": 122,
+        "RSE": 117
+      }
+    },
+    {
+      "name": "flygon",
+      "locations": {
+        "ORAS": 123,
+        "XY": 311,
+        "BW2": 123,
+        "RSE": 118
+      }
+    },
+    {
+      "name": "cacnea",
+      "locations": {
+        "ORAS": 124,
+        "RSE": 119
+      }
+    },
+    {
+      "name": "cacturne",
+      "locations": {
+        "ORAS": 125,
+        "RSE": 120
+      }
+    },
+    {
+      "name": "swablu",
+      "locations": {
+        "ORAS": 126,
+        "XY": 445,
+        "BW2": 246,
+        "PT": 171,
+        "RSE": 121
+      }
+    },
+    {
+      "name": "altaria",
+      "locations": {
+        "ORAS": 127,
+        "XY": 446,
+        "BW2": 247,
+        "PT": 172,
+        "RSE": 122
+      }
+    },
+    {
+      "name": "zangoose",
+      "locations": {
+        "ORAS": 128,
+        "XY": 158,
+        "BW2": 186,
+        "RSE": 123
+      }
+    },
+    {
+      "name": "seviper",
+      "locations": {
+        "ORAS": 129,
+        "XY": 159,
+        "BW2": 187,
+        "RSE": 124
+      }
+    },
+    {
+      "name": "lunatone",
+      "locations": {
+        "ORAS": 130,
+        "XY": 165,
+        "BW2": 214,
+        "RSE": 125
+      }
+    },
+    {
+      "name": "solrock",
+      "locations": {
+        "ORAS": 131,
+        "XY": 166,
+        "BW2": 215,
+        "RSE": 126
+      }
+    },
+    {
+      "name": "barboach",
+      "locations": {
+        "ORAS": 132,
+        "XY": 346,
+        "PT": 80,
+        "DP": 80,
+        "RSE": 127
+      }
+    },
+    {
+      "name": "whiscash",
+      "locations": {
+        "ORAS": 133,
+        "XY": 347,
+        "PT": 81,
+        "DP": 81,
+        "RSE": 128
+      }
+    },
+    {
+      "name": "corphish",
+      "locations": {
+        "ORAS": 134,
+        "XY": 51,
+        "BW2": 279,
+        "RSE": 129
+      }
+    },
+    {
+      "name": "crawdaunt",
+      "locations": {
+        "ORAS": 135,
+        "XY": 52,
+        "BW2": 280,
+        "RSE": 130
+      }
+    },
+    {
+      "name": "baltoy",
+      "locations": {
+        "ORAS": 136,
+        "BW2": 169,
+        "RSE": 131
+      }
+    },
+    {
+      "name": "claydol",
+      "locations": {
+        "ORAS": 137,
+        "BW2": 170,
+        "RSE": 132
+      }
+    },
+    {
+      "name": "lileep",
+      "locations": {
+        "ORAS": 138,
+        "RSE": 133
+      }
+    },
+    {
+      "name": "cradily",
+      "locations": {
+        "ORAS": 139,
+        "RSE": 134
+      }
+    },
+    {
+      "name": "anorith",
+      "locations": {
+        "ORAS": 140,
+        "RSE": 135
+      }
+    },
+    {
+      "name": "armaldo",
+      "locations": {
+        "ORAS": 141,
+        "RSE": 136
+      }
+    },
+    {
+      "name": "feebas",
+      "locations": {
+        "ORAS": 145,
+        "PT": 138,
+        "DP": 138,
+        "RSE": 140
+      }
+    },
+    {
+      "name": "milotic",
+      "locations": {
+        "ORAS": 146,
+        "PT": 139,
+        "DP": 139,
+        "RSE": 141
+      }
+    },
+    {
+      "name": "castform",
+      "locations": {
+        "ORAS": 147,
+        "BW2": 163,
+        "RSE": 142
+      }
+    },
+    {
+      "name": "kecleon",
+      "locations": {
+        "ORAS": 150,
+        "XY": 116,
+        "RSE": 145
+      }
+    },
+    {
+      "name": "shuppet",
+      "locations": {
+        "ORAS": 151,
+        "XY": 428,
+        "BW2": 210,
+        "RSE": 146
+      }
+    },
+    {
+      "name": "banette",
+      "locations": {
+        "ORAS": 152,
+        "XY": 429,
+        "BW2": 211,
+        "RSE": 147
+      }
+    },
+    {
+      "name": "duskull",
+      "locations": {
+        "ORAS": 153,
+        "PT": 189,
+        "RSE": 148
+      }
+    },
+    {
+      "name": "dusclops",
+      "locations": {
+        "ORAS": 154,
+        "PT": 190,
+        "RSE": 149
+      }
+    },
+    {
+      "name": "tropius",
+      "locations": {
+        "ORAS": 156,
+        "BW2": 288,
+        "PT": 185,
+        "RSE": 150
+      }
+    },
+    {
+      "name": "chimecho",
+      "locations": {
+        "ORAS": 158,
+        "XY": 265,
+        "PT": 83,
+        "DP": 83,
+        "RSE": 151
+      }
+    },
+    {
+      "name": "absol",
+      "locations": {
+        "ORAS": 159,
+        "XY": 162,
+        "BW2": 216,
+        "PT": 209,
+        "RSE": 152
+      }
+    },
+    {
+      "name": "wynaut",
+      "locations": {
+        "ORAS": 167,
+        "XY": 271,
+        "RSE": 160
+      }
+    },
+    {
+      "name": "snorunt",
+      "locations": {
+        "ORAS": 179,
+        "PT": 206,
+        "RSE": 171
+      }
+    },
+    {
+      "name": "glalie",
+      "locations": {
+        "ORAS": 180,
+        "PT": 207,
+        "RSE": 172
+      }
+    },
+    {
+      "name": "spheal",
+      "locations": {
+        "ORAS": 182,
+        "BW2": 243,
+        "RSE": 173
+      }
+    },
+    {
+      "name": "sealeo",
+      "locations": {
+        "ORAS": 183,
+        "BW2": 244,
+        "RSE": 174
+      }
+    },
+    {
+      "name": "walrein",
+      "locations": {
+        "ORAS": 184,
+        "BW2": 245,
+        "RSE": 175
+      }
+    },
+    {
+      "name": "clamperl",
+      "locations": {
+        "ORAS": 185,
+        "XY": 294,
+        "RSE": 176
+      }
+    },
+    {
+      "name": "huntail",
+      "locations": {
+        "ORAS": 186,
+        "XY": 295,
+        "RSE": 177
+      }
+    },
+    {
+      "name": "gorebyss",
+      "locations": {
+        "ORAS": 187,
+        "XY": 296,
+        "RSE": 178
+      }
+    },
+    {
+      "name": "relicanth",
+      "locations": {
+        "ORAS": 188,
+        "XY": 195,
+        "RSE": 179
+      }
+    },
+    {
+      "name": "luvdisc",
+      "locations": {
+        "ORAS": 192,
+        "XY": 182,
+        "RSE": 183
+      }
+    },
+    {
+      "name": "bagon",
+      "locations": {
+        "ORAS": 196,
+        "XY": 167,
+        "RSE": 187
+      }
+    },
+    {
+      "name": "shelgon",
+      "locations": {
+        "ORAS": 197,
+        "XY": 168,
+        "RSE": 188
+      }
+    },
+    {
+      "name": "salamence",
+      "locations": {
+        "ORAS": 198,
+        "XY": 169,
+        "RSE": 189
+      }
+    },
+    {
+      "name": "beldum",
+      "locations": {
+        "ORAS": 199,
+        "BW2": 262,
+        "RSE": 190
+      }
+    },
+    {
+      "name": "metang",
+      "locations": {
+        "ORAS": 200,
+        "BW2": 263,
+        "RSE": 191
+      }
+    },
+    {
+      "name": "metagross",
+      "locations": {
+        "ORAS": 201,
+        "BW2": 264,
+        "RSE": 192
+      }
+    },
+    {
+      "name": "regirock",
+      "locations": {
+        "ORAS": 202,
+        "RSE": 193
+      }
+    },
+    {
+      "name": "regice",
+      "locations": {
+        "ORAS": 203,
+        "RSE": 194
+      }
+    },
+    {
+      "name": "registeel",
+      "locations": {
+        "ORAS": 204,
+        "RSE": 195
+      }
+    },
+    {
+      "name": "latias",
+      "locations": {
+        "ORAS": 205,
+        "RSE": 196
+      }
+    },
+    {
+      "name": "latios",
+      "locations": {
+        "ORAS": 206,
+        "RSE": 197
+      }
+    },
+    {
+      "name": "kyogre",
+      "locations": {
+        "ORAS": 207,
+        "RSE": 198
+      }
+    },
+    {
+      "name": "groudon",
+      "locations": {
+        "ORAS": 208,
+        "RSE": 199
+      }
+    },
+    {
+      "name": "rayquaza",
+      "locations": {
+        "ORAS": 209,
+        "RSE": 200
+      }
+    },
+    {
+      "name": "jirachi",
+      "locations": {
+        "ORAS": 210,
+        "RSE": 201
+      }
+    },
+    {
+      "name": "deoxys",
+      "locations": {
+        "ORAS": 211,
+        "RSE": 202
+      }
+    },
+    {
+      "name": "turtwig",
+      "locations": {
+        "PT": 1,
+        "DP": 1
+      }
+    },
+    {
+      "name": "grotle",
+      "locations": {
+        "PT": 2,
+        "DP": 2
+      }
+    },
+    {
+      "name": "torterra",
+      "locations": {
+        "PT": 3,
+        "DP": 3
+      }
+    },
+    {
+      "name": "chimchar",
+      "locations": {
+        "PT": 4,
+        "DP": 4
+      }
+    },
+    {
+      "name": "monferno",
+      "locations": {
+        "PT": 5,
+        "DP": 5
+      }
+    },
+    {
+      "name": "infernape",
+      "locations": {
+        "PT": 6,
+        "DP": 6
+      }
+    },
+    {
+      "name": "piplup",
+      "locations": {
+        "PT": 7,
+        "DP": 7
+      }
+    },
+    {
+      "name": "prinplup",
+      "locations": {
+        "PT": 8,
+        "DP": 8
+      }
+    },
+    {
+      "name": "empoleon",
+      "locations": {
+        "PT": 9,
+        "DP": 9
+      }
+    },
+    {
+      "name": "starly",
+      "locations": {
+        "XY": 252,
+        "PT": 10,
+        "DP": 10
+      }
+    },
+    {
+      "name": "staravia",
+      "locations": {
+        "XY": 253,
+        "PT": 11,
+        "DP": 11
+      }
+    },
+    {
+      "name": "staraptor",
+      "locations": {
+        "XY": 254,
+        "PT": 12,
+        "DP": 12
+      }
+    },
+    {
+      "name": "bidoof",
+      "locations": {
+        "XY": 38,
+        "PT": 13,
+        "DP": 13
+      }
+    },
+    {
+      "name": "bibarel",
+      "locations": {
+        "XY": 39,
+        "PT": 14,
+        "DP": 14
+      }
+    },
+    {
+      "name": "kricketot",
+      "locations": {
+        "PT": 15,
+        "DP": 15
+      }
+    },
+    {
+      "name": "kricketune",
+      "locations": {
+        "PT": 16,
+        "DP": 16
+      }
+    },
+    {
+      "name": "shinx",
+      "locations": {
+        "PT": 17,
+        "DP": 17
+      }
+    },
+    {
+      "name": "luxio",
+      "locations": {
+        "PT": 18,
+        "DP": 18
+      }
+    },
+    {
+      "name": "luxray",
+      "locations": {
+        "PT": 19,
+        "DP": 19
+      }
+    },
+    {
+      "name": "budew",
+      "locations": {
+        "ORAS": 97,
+        "XY": 71,
+        "BW2": 133,
+        "PT": 25,
+        "DP": 25
+      }
+    },
+    {
+      "name": "roserade",
+      "locations": {
+        "ORAS": 99,
+        "XY": 72,
+        "BW2": 135,
+        "PT": 27,
+        "DP": 27
+      }
+    },
+    {
+      "name": "cranidos",
+      "locations": {
+        "PT": 36,
+        "DP": 36
+      }
+    },
+    {
+      "name": "rampardos",
+      "locations": {
+        "PT": 37,
+        "DP": 37
+      }
+    },
+    {
+      "name": "shieldon",
+      "locations": {
+        "PT": 38,
+        "DP": 38
+      }
+    },
+    {
+      "name": "bastiodon",
+      "locations": {
+        "PT": 39,
+        "DP": 39
+      }
+    },
+    {
+      "name": "burmy",
+      "locations": {
+        "XY": 44,
+        "PT": 45,
+        "DP": 45
+      }
+    },
+    {
+      "name": "wormadam",
+      "locations": {
+        "XY": 45,
+        "PT": 46,
+        "DP": 46
+      }
+    },
+    {
+      "name": "mothim",
+      "locations": {
+        "XY": 46,
+        "PT": 47,
+        "DP": 47
+      }
+    },
+    {
+      "name": "combee",
+      "locations": {
+        "XY": 76,
+        "BW2": 142,
+        "PT": 53,
+        "DP": 53
+      }
+    },
+    {
+      "name": "vespiquen",
+      "locations": {
+        "XY": 77,
+        "BW2": 143,
+        "PT": 54,
+        "DP": 54
+      }
+    },
+    {
+      "name": "pachirisu",
+      "locations": {
+        "XY": 285,
+        "PT": 55,
+        "DP": 55
+      }
+    },
+    {
+      "name": "buizel",
+      "locations": {
+        "XY": 364,
+        "BW2": 149,
+        "PT": 56,
+        "DP": 56
+      }
+    },
+    {
+      "name": "floatzel",
+      "locations": {
+        "XY": 365,
+        "BW2": 150,
+        "PT": 57,
+        "DP": 57
+      }
+    },
+    {
+      "name": "cherubi",
+      "locations": {
+        "PT": 58,
+        "DP": 58
+      }
+    },
+    {
+      "name": "cherrim",
+      "locations": {
+        "PT": 59,
+        "DP": 59
+      }
+    },
+    {
+      "name": "shellos",
+      "locations": {
+        "PT": 60,
+        "DP": 60
+      }
+    },
+    {
+      "name": "gastrodon",
+      "locations": {
+        "PT": 61,
+        "DP": 61
+      }
+    },
+    {
+      "name": "ambipom",
+      "locations": {
+        "HGSS": 124,
+        "PT": 64,
+        "DP": 64
+      }
+    },
+    {
+      "name": "drifloon",
+      "locations": {
+        "XY": 154,
+        "BW2": 208,
+        "PT": 65,
+        "DP": 65
+      }
+    },
+    {
+      "name": "drifblim",
+      "locations": {
+        "XY": 155,
+        "BW2": 209,
+        "PT": 66,
+        "DP": 66
+      }
+    },
+    {
+      "name": "buneary",
+      "locations": {
+        "BW2": 80,
+        "PT": 67,
+        "DP": 67
+      }
+    },
+    {
+      "name": "lopunny",
+      "locations": {
+        "BW2": 81,
+        "PT": 68,
+        "DP": 68
+      }
+    },
+    {
+      "name": "mismagius",
+      "locations": {
+        "PT": 73,
+        "DP": 73
+      }
+    },
+    {
+      "name": "honchkrow",
+      "locations": {
+        "XY": 358,
+        "PT": 75,
+        "DP": 75
+      }
+    },
+    {
+      "name": "glameow",
+      "locations": {
+        "PT": 76,
+        "DP": 76
+      }
+    },
+    {
+      "name": "purugly",
+      "locations": {
+        "PT": 77,
+        "DP": 77
+      }
+    },
+    {
+      "name": "chingling",
+      "locations": {
+        "ORAS": 157,
+        "XY": 264,
+        "PT": 82,
+        "DP": 82
+      }
+    },
+    {
+      "name": "stunky",
+      "locations": {
+        "XY": 255,
+        "PT": 84,
+        "DP": 84
+      }
+    },
+    {
+      "name": "skuntank",
+      "locations": {
+        "XY": 256,
+        "PT": 85,
+        "DP": 85
+      }
+    },
+    {
+      "name": "bronzor",
+      "locations": {
+        "BW2": 250,
+        "PT": 88,
+        "DP": 88
+      }
+    },
+    {
+      "name": "bronzong",
+      "locations": {
+        "BW2": 251,
+        "PT": 89,
+        "DP": 89
+      }
+    },
+    {
+      "name": "bonsly",
+      "locations": {
+        "XY": 435,
+        "PT": 92,
+        "DP": 92
+      }
+    },
+    {
+      "name": "mime-jr",
+      "locations": {
+        "XY": 266,
+        "PT": 94,
+        "DP": 94
+      }
+    },
+    {
+      "name": "happiny",
+      "locations": {
+        "PT": 96,
+        "DP": 96
+      }
+    },
+    {
+      "name": "chatot",
+      "locations": {
+        "XY": 291,
+        "PT": 102,
+        "DP": 102
+      }
+    },
+    {
+      "name": "spiritomb",
+      "locations": {
+        "PT": 108,
+        "DP": 108
+      }
+    },
+    {
+      "name": "gible",
+      "locations": {
+        "XY": 312,
+        "PT": 109,
+        "DP": 109
+      }
+    },
+    {
+      "name": "gabite",
+      "locations": {
+        "XY": 313,
+        "PT": 110,
+        "DP": 110
+      }
+    },
+    {
+      "name": "garchomp",
+      "locations": {
+        "XY": 314,
+        "PT": 111,
+        "DP": 111
+      }
+    },
+    {
+      "name": "munchlax",
+      "locations": {
+        "XY": 138,
+        "PT": 112,
+        "DP": 112
+      }
+    },
+    {
+      "name": "riolu",
+      "locations": {
+        "XY": 62,
+        "BW2": 33,
+        "PT": 115,
+        "DP": 115
+      }
+    },
+    {
+      "name": "lucario",
+      "locations": {
+        "XY": 63,
+        "BW2": 34,
+        "PT": 116,
+        "DP": 116
+      }
+    },
+    {
+      "name": "hippopotas",
+      "locations": {
+        "XY": 201,
+        "PT": 122,
+        "DP": 122
+      }
+    },
+    {
+      "name": "hippowdon",
+      "locations": {
+        "XY": 202,
+        "PT": 123,
+        "DP": 123
+      }
+    },
+    {
+      "name": "skorupi",
+      "locations": {
+        "XY": 321,
+        "BW2": 201,
+        "PT": 127,
+        "DP": 127
+      }
+    },
+    {
+      "name": "drapion",
+      "locations": {
+        "XY": 322,
+        "BW2": 202,
+        "PT": 128,
+        "DP": 128
+      }
+    },
+    {
+      "name": "croagunk",
+      "locations": {
+        "XY": 125,
+        "BW2": 290,
+        "PT": 129,
+        "DP": 129
+      }
+    },
+    {
+      "name": "toxicroak",
+      "locations": {
+        "XY": 126,
+        "BW2": 291,
+        "PT": 130,
+        "DP": 130
+      }
+    },
+    {
+      "name": "carnivine",
+      "locations": {
+        "XY": 335,
+        "BW2": 289,
+        "PT": 131,
+        "DP": 131
+      }
+    },
+    {
+      "name": "finneon",
+      "locations": {
+        "PT": 134,
+        "DP": 134
+      }
+    },
+    {
+      "name": "lumineon",
+      "locations": {
+        "PT": 135,
+        "DP": 135
+      }
+    },
+    {
+      "name": "mantyke",
+      "locations": {
+        "XY": 292,
+        "BW2": 233,
+        "PT": 140,
+        "DP": 140
+      }
+    },
+    {
+      "name": "snover",
+      "locations": {
+        "XY": 394,
+        "PT": 142,
+        "DP": 142
+      }
+    },
+    {
+      "name": "abomasnow",
+      "locations": {
+        "XY": 395,
+        "PT": 143,
+        "DP": 143
+      }
+    },
+    {
+      "name": "weavile",
+      "locations": {
+        "XY": 398,
+        "BW2": 253,
+        "PT": 145,
+        "DP": 145
+      }
+    },
+    {
+      "name": "magnezone",
+      "locations": {
+        "ORAS": 86,
+        "XY": 377,
+        "BW2": 50,
+        "PT": 180
+      }
+    },
+    {
+      "name": "lickilicky",
+      "locations": {
+        "XY": 441,
+        "BW2": 285,
+        "HGSS": 181,
+        "PT": 162
+      }
+    },
+    {
+      "name": "rhyperior",
+      "locations": {
+        "ORAS": 178,
+        "XY": 205,
+        "PT": 188
+      }
+    },
+    {
+      "name": "tangrowth",
+      "locations": {
+        "BW2": 218,
+        "HGSS": 183,
+        "PT": 182
+      }
+    },
+    {
+      "name": "electivire",
+      "locations": {
+        "BW2": 58,
+        "PT": 199
+      }
+    },
+    {
+      "name": "magmortar",
+      "locations": {
+        "BW2": 55,
+        "PT": 202
+      }
+    },
+    {
+      "name": "togekiss",
+      "locations": {
+        "PT": 175
+      }
+    },
+    {
+      "name": "yanmega",
+      "locations": {
+        "XY": 241,
+        "BW2": 287,
+        "HGSS": 102,
+        "PT": 184
+      }
+    },
+    {
+      "name": "leafeon",
+      "locations": {
+        "XY": 236,
+        "BW2": 97,
+        "PT": 169
+      }
+    },
+    {
+      "name": "glaceon",
+      "locations": {
+        "XY": 237,
+        "BW2": 98,
+        "PT": 170
+      }
+    },
+    {
+      "name": "gliscor",
+      "locations": {
+        "XY": 422,
+        "BW2": 222,
+        "PT": 154
+      }
+    },
+    {
+      "name": "mamoswine",
+      "locations": {
+        "XY": 384,
+        "BW2": 260,
+        "HGSS": 197,
+        "PT": 205
+      }
+    },
+    {
+      "name": "porygon-z",
+      "locations": {
+        "PT": 194
+      }
+    },
+    {
+      "name": "gallade",
+      "locations": {
+        "ORAS": 32,
+        "XY": 67,
+        "PT": 160
+      }
+    },
+    {
+      "name": "probopass",
+      "locations": {
+        "ORAS": 62,
+        "XY": 247,
+        "BW2": 165,
+        "PT": 156
+      }
+    },
+    {
+      "name": "dusknoir",
+      "locations": {
+        "ORAS": 155,
+        "PT": 191
+      }
+    },
+    {
+      "name": "froslass",
+      "locations": {
+        "ORAS": 181,
+        "PT": 208
+      }
+    },
+    {
+      "name": "rotom",
+      "locations": {
+        "XY": 374,
+        "PT": 152
+      }
+    },
+    {
+      "name": "uxie",
+      "locations": {
+        "PT": 146,
+        "DP": 146
+      }
+    },
+    {
+      "name": "mesprit",
+      "locations": {
+        "PT": 147,
+        "DP": 147
+      }
+    },
+    {
+      "name": "azelf",
+      "locations": {
+        "PT": 148,
+        "DP": 148
+      }
+    },
+    {
+      "name": "dialga",
+      "locations": {
+        "PT": 149,
+        "DP": 149
+      }
+    },
+    {
+      "name": "palkia",
+      "locations": {
+        "PT": 150,
+        "DP": 150
+      }
+    },
+    {
+      "name": "heatran",
+      "locations": {}
+    },
+    {
+      "name": "regigigas",
+      "locations": {}
+    },
+    {
+      "name": "giratina",
+      "locations": {
+        "PT": 210
+      }
+    },
+    {
+      "name": "cresselia",
+      "locations": {}
+    },
+    {
+      "name": "phione",
+      "locations": {}
+    },
+    {
+      "name": "manaphy",
+      "locations": {
+        "PT": 151,
+        "DP": 151
+      }
+    },
+    {
+      "name": "darkrai",
+      "locations": {}
+    },
+    {
+      "name": "shaymin",
+      "locations": {}
+    },
+    {
+      "name": "arceus",
+      "locations": {}
+    },
+    {
+      "name": "victini",
+      "locations": {
+        "BW2": 0,
+        "BW": 0
+      }
+    },
+    {
+      "name": "snivy",
+      "locations": {
+        "BW2": 1,
+        "BW": 1
+      }
+    },
+    {
+      "name": "servine",
+      "locations": {
+        "BW2": 2,
+        "BW": 2
+      }
+    },
+    {
+      "name": "serperior",
+      "locations": {
+        "BW2": 3,
+        "BW": 3
+      }
+    },
+    {
+      "name": "tepig",
+      "locations": {
+        "BW2": 4,
+        "BW": 4
+      }
+    },
+    {
+      "name": "pignite",
+      "locations": {
+        "BW2": 5,
+        "BW": 5
+      }
+    },
+    {
+      "name": "emboar",
+      "locations": {
+        "BW2": 6,
+        "BW": 6
+      }
+    },
+    {
+      "name": "oshawott",
+      "locations": {
+        "BW2": 7,
+        "BW": 7
+      }
+    },
+    {
+      "name": "dewott",
+      "locations": {
+        "BW2": 8,
+        "BW": 8
+      }
+    },
+    {
+      "name": "samurott",
+      "locations": {
+        "BW2": 9,
+        "BW": 9
+      }
+    },
+    {
+      "name": "patrat",
+      "locations": {
+        "XY": 352,
+        "BW2": 10,
+        "BW": 10
+      }
+    },
+    {
+      "name": "watchog",
+      "locations": {
+        "XY": 353,
+        "BW2": 11,
+        "BW": 11
+      }
+    },
+    {
+      "name": "lillipup",
+      "locations": {
+        "BW2": 22,
+        "BW": 12
+      }
+    },
+    {
+      "name": "herdier",
+      "locations": {
+        "BW2": 23,
+        "BW": 13
+      }
+    },
+    {
+      "name": "stoutland",
+      "locations": {
+        "BW2": 24,
+        "BW": 14
+      }
+    },
+    {
+      "name": "purrloin",
+      "locations": {
+        "XY": 348,
+        "BW2": 12,
+        "BW": 15
+      }
+    },
+    {
+      "name": "liepard",
+      "locations": {
+        "XY": 349,
+        "BW2": 13,
+        "BW": 16
+      }
+    },
+    {
+      "name": "pansage",
+      "locations": {
+        "XY": 29,
+        "BW2": 37,
+        "BW": 17
+      }
+    },
+    {
+      "name": "simisage",
+      "locations": {
+        "XY": 30,
+        "BW2": 38,
+        "BW": 18
+      }
+    },
+    {
+      "name": "pansear",
+      "locations": {
+        "XY": 31,
+        "BW2": 39,
+        "BW": 19
+      }
+    },
+    {
+      "name": "simisear",
+      "locations": {
+        "XY": 32,
+        "BW2": 40,
+        "BW": 20
+      }
+    },
+    {
+      "name": "panpour",
+      "locations": {
+        "XY": 33,
+        "BW2": 41,
+        "BW": 21
+      }
+    },
+    {
+      "name": "simipour",
+      "locations": {
+        "XY": 34,
+        "BW2": 42,
+        "BW": 22
+      }
+    },
+    {
+      "name": "munna",
+      "locations": {
+        "BW2": 86,
+        "BW": 23
+      }
+    },
+    {
+      "name": "musharna",
+      "locations": {
+        "BW2": 87,
+        "BW": 24
+      }
+    },
+    {
+      "name": "pidove",
+      "locations": {
+        "BW2": 14,
+        "BW": 25
+      }
+    },
+    {
+      "name": "tranquill",
+      "locations": {
+        "BW2": 15,
+        "BW": 26
+      }
+    },
+    {
+      "name": "unfezant",
+      "locations": {
+        "BW2": 16,
+        "BW": 27
+      }
+    },
+    {
+      "name": "blitzle",
+      "locations": {
+        "BW2": 147,
+        "BW": 28
+      }
+    },
+    {
+      "name": "zebstrika",
+      "locations": {
+        "BW2": 148,
+        "BW": 29
+      }
+    },
+    {
+      "name": "roggenrola",
+      "locations": {
+        "XY": 273,
+        "BW2": 68,
+        "BW": 30
+      }
+    },
+    {
+      "name": "boldore",
+      "locations": {
+        "XY": 274,
+        "BW2": 69,
+        "BW": 31
+      }
+    },
+    {
+      "name": "gigalith",
+      "locations": {
+        "XY": 275,
+        "BW2": 70,
+        "BW": 32
+      }
+    },
+    {
+      "name": "woobat",
+      "locations": {
+        "XY": 208,
+        "BW2": 66,
+        "BW": 33
+      }
+    },
+    {
+      "name": "swoobat",
+      "locations": {
+        "XY": 209,
+        "BW2": 67,
+        "BW": 34
+      }
+    },
+    {
+      "name": "drilbur",
+      "locations": {
+        "BW2": 76,
+        "BW": 35
+      }
+    },
+    {
+      "name": "excadrill",
+      "locations": {
+        "BW2": 77,
+        "BW": 36
+      }
+    },
+    {
+      "name": "audino",
+      "locations": {
+        "XY": 123,
+        "BW2": 36,
+        "BW": 37
+      }
+    },
+    {
+      "name": "timburr",
+      "locations": {
+        "XY": 399,
+        "BW2": 73,
+        "BW": 38
+      }
+    },
+    {
+      "name": "gurdurr",
+      "locations": {
+        "XY": 400,
+        "BW2": 74,
+        "BW": 39
+      }
+    },
+    {
+      "name": "conkeldurr",
+      "locations": {
+        "XY": 401,
+        "BW2": 75,
+        "BW": 40
+      }
+    },
+    {
+      "name": "tympole",
+      "locations": {
+        "BW2": 228,
+        "BW": 41
+      }
+    },
+    {
+      "name": "palpitoad",
+      "locations": {
+        "BW2": 229,
+        "BW": 42
+      }
+    },
+    {
+      "name": "seismitoad",
+      "locations": {
+        "BW2": 230,
+        "BW": 43
+      }
+    },
+    {
+      "name": "throh",
+      "locations": {
+        "XY": 250,
+        "BW2": 267,
+        "BW": 44
+      }
+    },
+    {
+      "name": "sawk",
+      "locations": {
+        "XY": 251,
+        "BW2": 268,
+        "BW": 45
+      }
+    },
+    {
+      "name": "sewaddle",
+      "locations": {
+        "BW2": 17,
+        "BW": 46
+      }
+    },
+    {
+      "name": "swadloon",
+      "locations": {
+        "BW2": 18,
+        "BW": 47
+      }
+    },
+    {
+      "name": "leavanny",
+      "locations": {
+        "BW2": 19,
+        "BW": 48
+      }
+    },
+    {
+      "name": "venipede",
+      "locations": {
+        "XY": 120,
+        "BW2": 43,
+        "BW": 49
+      }
+    },
+    {
+      "name": "whirlipede",
+      "locations": {
+        "XY": 121,
+        "BW2": 44,
+        "BW": 50
+      }
+    },
+    {
+      "name": "scolipede",
+      "locations": {
+        "XY": 122,
+        "BW2": 45,
+        "BW": 51
+      }
+    },
+    {
+      "name": "cottonee",
+      "locations": {
+        "BW2": 82,
+        "BW": 52
+      }
+    },
+    {
+      "name": "whimsicott",
+      "locations": {
+        "BW2": 83,
+        "BW": 53
+      }
+    },
+    {
+      "name": "petilil",
+      "locations": {
+        "BW2": 84,
+        "BW": 54
+      }
+    },
+    {
+      "name": "lilligant",
+      "locations": {
+        "BW2": 85,
+        "BW": 55
+      }
+    },
+    {
+      "name": "basculin",
+      "locations": {
+        "XY": 366,
+        "BW2": 104,
+        "BW": 56
+      }
+    },
+    {
+      "name": "sandile",
+      "locations": {
+        "XY": 196,
+        "BW2": 99,
+        "BW": 57
+      }
+    },
+    {
+      "name": "krokorok",
+      "locations": {
+        "XY": 197,
+        "BW2": 100,
+        "BW": 58
+      }
+    },
+    {
+      "name": "krookodile",
+      "locations": {
+        "XY": 198,
+        "BW2": 101,
+        "BW": 59
+      }
+    },
+    {
+      "name": "darumaka",
+      "locations": {
+        "BW2": 102,
+        "BW": 60
+      }
+    },
+    {
+      "name": "darmanitan",
+      "locations": {
+        "BW2": 103,
+        "BW": 61
+      }
+    },
+    {
+      "name": "maractus",
+      "locations": {
+        "BW2": 119,
+        "BW": 62
+      }
+    },
+    {
+      "name": "dwebble",
+      "locations": {
+        "XY": 176,
+        "BW2": 115,
+        "BW": 63
+      }
+    },
+    {
+      "name": "crustle",
+      "locations": {
+        "XY": 177,
+        "BW2": 116,
+        "BW": 64
+      }
+    },
+    {
+      "name": "scraggy",
+      "locations": {
+        "XY": 100,
+        "BW2": 117,
+        "BW": 65
+      }
+    },
+    {
+      "name": "scrafty",
+      "locations": {
+        "XY": 101,
+        "BW2": 118,
+        "BW": 66
+      }
+    },
+    {
+      "name": "sigilyph",
+      "locations": {
+        "XY": 243,
+        "BW2": 120,
+        "BW": 67
+      }
+    },
+    {
+      "name": "yamask",
+      "locations": {
+        "BW2": 124,
+        "BW": 68
+      }
+    },
+    {
+      "name": "cofagrigus",
+      "locations": {
+        "BW2": 125,
+        "BW": 69
+      }
+    },
+    {
+      "name": "tirtouga",
+      "locations": {
+        "BW2": 126,
+        "BW": 70
+      }
+    },
+    {
+      "name": "carracosta",
+      "locations": {
+        "BW2": 127,
+        "BW": 71
+      }
+    },
+    {
+      "name": "archen",
+      "locations": {
+        "BW2": 128,
+        "BW": 72
+      }
+    },
+    {
+      "name": "archeops",
+      "locations": {
+        "BW2": 129,
+        "BW": 73
+      }
+    },
+    {
+      "name": "trubbish",
+      "locations": {
+        "XY": 380,
+        "BW2": 105,
+        "BW": 74
+      }
+    },
+    {
+      "name": "garbodor",
+      "locations": {
+        "XY": 381,
+        "BW2": 106,
+        "BW": 75
+      }
+    },
+    {
+      "name": "zorua",
+      "locations": {
+        "XY": 430,
+        "BW2": 151,
+        "BW": 76
+      }
+    },
+    {
+      "name": "zoroark",
+      "locations": {
+        "XY": 431,
+        "BW2": 152,
+        "BW": 77
+      }
+    },
+    {
+      "name": "minccino",
+      "locations": {
+        "BW2": 107,
+        "BW": 78
+      }
+    },
+    {
+      "name": "cinccino",
+      "locations": {
+        "BW2": 108,
+        "BW": 79
+      }
+    },
+    {
+      "name": "gothita",
+      "locations": {
+        "XY": 432,
+        "BW2": 136,
+        "BW": 80
+      }
+    },
+    {
+      "name": "gothorita",
+      "locations": {
+        "XY": 433,
+        "BW2": 137,
+        "BW": 81
+      }
+    },
+    {
+      "name": "gothitelle",
+      "locations": {
+        "XY": 434,
+        "BW2": 138,
+        "BW": 82
+      }
+    },
+    {
+      "name": "solosis",
+      "locations": {
+        "XY": 268,
+        "BW2": 139,
+        "BW": 83
+      }
+    },
+    {
+      "name": "duosion",
+      "locations": {
+        "XY": 269,
+        "BW2": 140,
+        "BW": 84
+      }
+    },
+    {
+      "name": "reuniclus",
+      "locations": {
+        "XY": 270,
+        "BW2": 141,
+        "BW": 85
+      }
+    },
+    {
+      "name": "ducklett",
+      "locations": {
+        "XY": 127,
+        "BW2": 153,
+        "BW": 86
+      }
+    },
+    {
+      "name": "swanna",
+      "locations": {
+        "XY": 128,
+        "BW2": 154,
+        "BW": 87
+      }
+    },
+    {
+      "name": "vanillite",
+      "locations": {
+        "XY": 391,
+        "BW2": 255,
+        "BW": 88
+      }
+    },
+    {
+      "name": "vanillish",
+      "locations": {
+        "XY": 392,
+        "BW2": 256,
+        "BW": 89
+      }
+    },
+    {
+      "name": "vanilluxe",
+      "locations": {
+        "XY": 393,
+        "BW2": 257,
+        "BW": 90
+      }
+    },
+    {
+      "name": "deerling",
+      "locations": {
+        "BW2": 159,
+        "BW": 91
+      }
+    },
+    {
+      "name": "sawsbuck",
+      "locations": {
+        "BW2": 160,
+        "BW": 92
+      }
+    },
+    {
+      "name": "emolga",
+      "locations": {
+        "XY": 239,
+        "BW2": 144,
+        "BW": 93
+      }
+    },
+    {
+      "name": "karrablast",
+      "locations": {
+        "XY": 328,
+        "BW2": 155,
+        "BW": 94
+      }
+    },
+    {
+      "name": "escavalier",
+      "locations": {
+        "XY": 329,
+        "BW2": 156,
+        "BW": 95
+      }
+    },
+    {
+      "name": "foongus",
+      "locations": {
+        "XY": 359,
+        "BW2": 161,
+        "BW": 96
+      }
+    },
+    {
+      "name": "amoonguss",
+      "locations": {
+        "XY": 360,
+        "BW2": 162,
+        "BW": 97
+      }
+    },
+    {
+      "name": "frillish",
+      "locations": {
+        "BW2": 180,
+        "BW": 98
+      }
+    },
+    {
+      "name": "jellicent",
+      "locations": {
+        "BW2": 181,
+        "BW": 99
+      }
+    },
+    {
+      "name": "alomomola",
+      "locations": {
+        "XY": 302,
+        "BW2": 182,
+        "BW": 100
+      }
+    },
+    {
+      "name": "joltik",
+      "locations": {
+        "BW2": 173,
+        "BW": 101
+      }
+    },
+    {
+      "name": "galvantula",
+      "locations": {
+        "BW2": 174,
+        "BW": 102
+      }
+    },
+    {
+      "name": "ferroseed",
+      "locations": {
+        "XY": 222,
+        "BW2": 175,
+        "BW": 103
+      }
+    },
+    {
+      "name": "ferrothorn",
+      "locations": {
+        "XY": 223,
+        "BW2": 176,
+        "BW": 104
+      }
+    },
+    {
+      "name": "klink",
+      "locations": {
+        "BW2": 130,
+        "BW": 105
+      }
+    },
+    {
+      "name": "klang",
+      "locations": {
+        "BW2": 131,
+        "BW": 106
+      }
+    },
+    {
+      "name": "klinklang",
+      "locations": {
+        "BW2": 132,
+        "BW": 107
+      }
+    },
+    {
+      "name": "tynamo",
+      "locations": {
+        "BW2": 177,
+        "BW": 108
+      }
+    },
+    {
+      "name": "eelektrik",
+      "locations": {
+        "BW2": 178,
+        "BW": 109
+      }
+    },
+    {
+      "name": "eelektross",
+      "locations": {
+        "BW2": 179,
+        "BW": 110
+      }
+    },
+    {
+      "name": "elgyem",
+      "locations": {
+        "BW2": 188,
+        "BW": 111
+      }
+    },
+    {
+      "name": "beheeyem",
+      "locations": {
+        "BW2": 189,
+        "BW": 112
+      }
+    },
+    {
+      "name": "litwick",
+      "locations": {
+        "XY": 371,
+        "BW2": 190,
+        "BW": 113
+      }
+    },
+    {
+      "name": "lampent",
+      "locations": {
+        "XY": 372,
+        "BW2": 191,
+        "BW": 114
+      }
+    },
+    {
+      "name": "chandelure",
+      "locations": {
+        "XY": 373,
+        "BW2": 192,
+        "BW": 115
+      }
+    },
+    {
+      "name": "axew",
+      "locations": {
+        "XY": 148,
+        "BW2": 183,
+        "BW": 116
+      }
+    },
+    {
+      "name": "fraxure",
+      "locations": {
+        "XY": 149,
+        "BW2": 184,
+        "BW": 117
+      }
+    },
+    {
+      "name": "haxorus",
+      "locations": {
+        "XY": 150,
+        "BW2": 185,
+        "BW": 118
+      }
+    },
+    {
+      "name": "cubchoo",
+      "locations": {
+        "XY": 387,
+        "BW2": 195,
+        "BW": 119
+      }
+    },
+    {
+      "name": "beartic",
+      "locations": {
+        "XY": 388,
+        "BW2": 196,
+        "BW": 120
+      }
+    },
+    {
+      "name": "cryogonal",
+      "locations": {
+        "XY": 417,
+        "BW2": 197,
+        "BW": 121
+      }
+    },
+    {
+      "name": "shelmet",
+      "locations": {
+        "XY": 330,
+        "BW2": 157,
+        "BW": 122
+      }
+    },
+    {
+      "name": "accelgor",
+      "locations": {
+        "XY": 331,
+        "BW2": 158,
+        "BW": 123
+      }
+    },
+    {
+      "name": "stunfisk",
+      "locations": {
+        "XY": 345,
+        "BW2": 231,
+        "BW": 124
+      }
+    },
+    {
+      "name": "mienfoo",
+      "locations": {
+        "XY": 156,
+        "BW2": 219,
+        "BW": 125
+      }
+    },
+    {
+      "name": "mienshao",
+      "locations": {
+        "XY": 157,
+        "BW2": 220,
+        "BW": 126
+      }
+    },
+    {
+      "name": "druddigon",
+      "locations": {
+        "XY": 447,
+        "BW2": 270,
+        "BW": 127
+      }
+    },
+    {
+      "name": "golett",
+      "locations": {
+        "XY": 244,
+        "BW2": 271,
+        "BW": 128
+      }
+    },
+    {
+      "name": "golurk",
+      "locations": {
+        "XY": 245,
+        "BW2": 272,
+        "BW": 129
+      }
+    },
+    {
+      "name": "pawniard",
+      "locations": {
+        "XY": 354,
+        "BW2": 223,
+        "BW": 130
+      }
+    },
+    {
+      "name": "bisharp",
+      "locations": {
+        "XY": 355,
+        "BW2": 224,
+        "BW": 131
+      }
+    },
+    {
+      "name": "bouffalant",
+      "locations": {
+        "BW2": 269,
+        "BW": 132
+      }
+    },
+    {
+      "name": "rufflet",
+      "locations": {
+        "BW2": 109,
+        "BW": 133
+      }
+    },
+    {
+      "name": "braviary",
+      "locations": {
+        "BW2": 110,
+        "BW": 134
+      }
+    },
+    {
+      "name": "vullaby",
+      "locations": {
+        "BW2": 111,
+        "BW": 135
+      }
+    },
+    {
+      "name": "mandibuzz",
+      "locations": {
+        "BW2": 112,
+        "BW": 136
+      }
+    },
+    {
+      "name": "heatmor",
+      "locations": {
+        "XY": 411,
+        "BW2": 193,
+        "BW": 137
+      }
+    },
+    {
+      "name": "durant",
+      "locations": {
+        "XY": 412,
+        "BW2": 194,
+        "BW": 138
+      }
+    },
+    {
+      "name": "deino",
+      "locations": {
+        "XY": 448,
+        "BW2": 273,
+        "BW": 139
+      }
+    },
+    {
+      "name": "zweilous",
+      "locations": {
+        "XY": 449,
+        "BW2": 274,
+        "BW": 140
+      }
+    },
+    {
+      "name": "hydreigon",
+      "locations": {
+        "XY": 450,
+        "BW2": 275,
+        "BW": 141
+      }
+    },
+    {
+      "name": "larvesta",
+      "locations": {
+        "BW2": 171,
+        "BW": 142
+      }
+    },
+    {
+      "name": "volcarona",
+      "locations": {
+        "BW2": 172,
+        "BW": 143
+      }
+    },
+    {
+      "name": "cobalion",
+      "locations": {
+        "BW2": 225,
+        "BW": 144
+      }
+    },
+    {
+      "name": "terrakion",
+      "locations": {
+        "BW2": 226,
+        "BW": 145
+      }
+    },
+    {
+      "name": "virizion",
+      "locations": {
+        "BW2": 227,
+        "BW": 146
+      }
+    },
+    {
+      "name": "tornadus",
+      "locations": {
+        "BW2": 198,
+        "BW": 147
+      }
+    },
+    {
+      "name": "thundurus",
+      "locations": {
+        "BW2": 199,
+        "BW": 148
+      }
+    },
+    {
+      "name": "reshiram",
+      "locations": {
+        "BW2": 295,
+        "BW": 149
+      }
+    },
+    {
+      "name": "zekrom",
+      "locations": {
+        "BW2": 296,
+        "BW": 150
+      }
+    },
+    {
+      "name": "landorus",
+      "locations": {
+        "BW2": 200,
+        "BW": 151
+      }
+    },
+    {
+      "name": "kyurem",
+      "locations": {
+        "BW2": 297,
+        "BW": 152
+      }
+    },
+    {
+      "name": "keldeo",
+      "locations": {
+        "BW2": 298,
+        "BW": 153
+      }
+    },
+    {
+      "name": "meloetta",
+      "locations": {
+        "BW2": 299,
+        "BW": 154
+      }
+    },
+    {
+      "name": "genesect",
+      "locations": {
+        "BW2": 300,
+        "BW": 155
+      }
+    },
+    {
+      "name": "chespin",
+      "locations": {
+        "XY": 1
+      }
+    },
+    {
+      "name": "quilladin",
+      "locations": {
+        "XY": 2
+      }
+    },
+    {
+      "name": "chesnaught",
+      "locations": {
+        "XY": 3
+      }
+    },
+    {
+      "name": "fennekin",
+      "locations": {
+        "XY": 4
+      }
+    },
+    {
+      "name": "braixen",
+      "locations": {
+        "XY": 5
+      }
+    },
+    {
+      "name": "delphox",
+      "locations": {
+        "XY": 6
+      }
+    },
+    {
+      "name": "froakie",
+      "locations": {
+        "XY": 7
+      }
+    },
+    {
+      "name": "frogadier",
+      "locations": {
+        "XY": 8
+      }
+    },
+    {
+      "name": "greninja",
+      "locations": {
+        "XY": 9
+      }
+    },
+    {
+      "name": "bunnelby",
+      "locations": {
+        "XY": 10
+      }
+    },
+    {
+      "name": "diggersby",
+      "locations": {
+        "XY": 11
+      }
+    },
+    {
+      "name": "fletchling",
+      "locations": {
+        "XY": 14
+      }
+    },
+    {
+      "name": "fletchinder",
+      "locations": {
+        "XY": 15
+      }
+    },
+    {
+      "name": "talonflame",
+      "locations": {
+        "XY": 16
+      }
+    },
+    {
+      "name": "scatterbug",
+      "locations": {
+        "XY": 20
+      }
+    },
+    {
+      "name": "spewpa",
+      "locations": {
+        "XY": 21
+      }
+    },
+    {
+      "name": "vivillon",
+      "locations": {
+        "XY": 22
+      }
+    },
+    {
+      "name": "litleo",
+      "locations": {
+        "XY": 57
+      }
+    },
+    {
+      "name": "pyroar",
+      "locations": {
+        "XY": 58
+      }
+    },
+    {
+      "name": "flabebe",
+      "locations": {
+        "XY": 68
+      }
+    },
+    {
+      "name": "floette",
+      "locations": {
+        "XY": 69
+      }
+    },
+    {
+      "name": "florges",
+      "locations": {
+        "XY": 70
+      }
+    },
+    {
+      "name": "skiddo",
+      "locations": {
+        "XY": 89
+      }
+    },
+    {
+      "name": "gogoat",
+      "locations": {
+        "XY": 90
+      }
+    },
+    {
+      "name": "pancham",
+      "locations": {
+        "XY": 91
+      }
+    },
+    {
+      "name": "pangoro",
+      "locations": {
+        "XY": 92
+      }
+    },
+    {
+      "name": "furfrou",
+      "locations": {
+        "XY": 93
+      }
+    },
+    {
+      "name": "espurr",
+      "locations": {
+        "XY": 114
+      }
+    },
+    {
+      "name": "meowstic",
+      "locations": {
+        "XY": 115
+      }
+    },
+    {
+      "name": "honedge",
+      "locations": {
+        "XY": 117
+      }
+    },
+    {
+      "name": "doublade",
+      "locations": {
+        "XY": 118
+      }
+    },
+    {
+      "name": "aegislash",
+      "locations": {
+        "XY": 119
+      }
+    },
+    {
+      "name": "spritzee",
+      "locations": {
+        "XY": 129
+      }
+    },
+    {
+      "name": "aromatisse",
+      "locations": {
+        "XY": 130
+      }
+    },
+    {
+      "name": "swirlix",
+      "locations": {
+        "XY": 131
+      }
+    },
+    {
+      "name": "slurpuff",
+      "locations": {
+        "XY": 132
+      }
+    },
+    {
+      "name": "inkay",
+      "locations": {
+        "XY": 163
+      }
+    },
+    {
+      "name": "malamar",
+      "locations": {
+        "XY": 164
+      }
+    },
+    {
+      "name": "binacle",
+      "locations": {
+        "XY": 174
+      }
+    },
+    {
+      "name": "barbaracle",
+      "locations": {
+        "XY": 175
+      }
+    },
+    {
+      "name": "skrelp",
+      "locations": {
+        "XY": 183
+      }
+    },
+    {
+      "name": "dragalge",
+      "locations": {
+        "XY": 184
+      }
+    },
+    {
+      "name": "clauncher",
+      "locations": {
+        "XY": 185
+      }
+    },
+    {
+      "name": "clawitzer",
+      "locations": {
+        "XY": 186
+      }
+    },
+    {
+      "name": "helioptile",
+      "locations": {
+        "XY": 199
+      }
+    },
+    {
+      "name": "heliolisk",
+      "locations": {
+        "XY": 200
+      }
+    },
+    {
+      "name": "tyrunt",
+      "locations": {
+        "XY": 217
+      }
+    },
+    {
+      "name": "tyrantrum",
+      "locations": {
+        "XY": 218
+      }
+    },
+    {
+      "name": "amaura",
+      "locations": {
+        "XY": 219
+      }
+    },
+    {
+      "name": "aurorus",
+      "locations": {
+        "XY": 220
+      }
+    },
+    {
+      "name": "sylveon",
+      "locations": {
+        "XY": 238
+      }
+    },
+    {
+      "name": "hawlucha",
+      "locations": {
+        "XY": 242
+      }
+    },
+    {
+      "name": "dedenne",
+      "locations": {
+        "XY": 263
+      }
+    },
+    {
+      "name": "carbink",
+      "locations": {
+        "XY": 277
+      }
+    },
+    {
+      "name": "goomy",
+      "locations": {
+        "XY": 325
+      }
+    },
+    {
+      "name": "sliggoo",
+      "locations": {
+        "XY": 326
+      }
+    },
+    {
+      "name": "goodra",
+      "locations": {
+        "XY": 327
+      }
+    },
+    {
+      "name": "klefki",
+      "locations": {
+        "XY": 356
+      }
+    },
+    {
+      "name": "phantump",
+      "locations": {
+        "XY": 367
+      }
+    },
+    {
+      "name": "trevenant",
+      "locations": {
+        "XY": 368
+      }
+    },
+    {
+      "name": "pumpkaboo",
+      "locations": {
+        "XY": 369
+      }
+    },
+    {
+      "name": "gourgeist",
+      "locations": {
+        "XY": 370
+      }
+    },
+    {
+      "name": "bergmite",
+      "locations": {
+        "XY": 385
+      }
+    },
+    {
+      "name": "avalugg",
+      "locations": {
+        "XY": 386
+      }
+    },
+    {
+      "name": "noibat",
+      "locations": {
+        "XY": 419
+      }
+    },
+    {
+      "name": "noivern",
+      "locations": {
+        "XY": 420
+      }
+    },
+    {
+      "name": "xerneas",
+      "locations": {
+        "XY": 454
+      }
+    },
+    {
+      "name": "yveltal",
+      "locations": {
+        "XY": 455
+      }
+    },
+    {
+      "name": "zygarde",
+      "locations": {
+        "XY": 456
+      }
+    },
+    {
+      "name": "diancie",
+      "locations": {}
+    },
+    {
+      "name": "hoopa",
+      "locations": {}
+    },
+    {
+      "name": "volcanion",
+      "locations": {}
+    },
+    {
+      "name": "rowlet",
+      "locations": {}
+    },
+    {
+      "name": "dartrix",
+      "locations": {}
+    },
+    {
+      "name": "decidueye",
+      "locations": {}
+    },
+    {
+      "name": "litten",
+      "locations": {}
+    },
+    {
+      "name": "torracat",
+      "locations": {}
+    },
+    {
+      "name": "incineroar",
+      "locations": {}
+    },
+    {
+      "name": "popplio",
+      "locations": {}
+    },
+    {
+      "name": "brionne",
+      "locations": {}
+    },
+    {
+      "name": "primarina",
+      "locations": {}
+    },
+    {
+      "name": "pikipek",
+      "locations": {}
+    },
+    {
+      "name": "trumbeak",
+      "locations": {}
+    },
+    {
+      "name": "toucannon",
+      "locations": {}
+    },
+    {
+      "name": "yungoos",
+      "locations": {}
+    },
+    {
+      "name": "gumshoos",
+      "locations": {}
+    },
+    {
+      "name": "grubbin",
+      "locations": {}
+    },
+    {
+      "name": "charjabug",
+      "locations": {}
+    },
+    {
+      "name": "vikavolt",
+      "locations": {}
+    },
+    {
+      "name": "crabrawler",
+      "locations": {}
+    },
+    {
+      "name": "crabominable",
+      "locations": {}
+    },
+    {
+      "name": "oricorio",
+      "locations": {}
+    },
+    {
+      "name": "cutiefly",
+      "locations": {}
+    },
+    {
+      "name": "ribombee",
+      "locations": {}
+    },
+    {
+      "name": "rockruff",
+      "locations": {}
+    },
+    {
+      "name": "lycanroc",
+      "locations": {}
+    },
+    {
+      "name": "wishiwashi",
+      "locations": {}
+    },
+    {
+      "name": "mareanie",
+      "locations": {}
+    },
+    {
+      "name": "toxapex",
+      "locations": {}
+    },
+    {
+      "name": "mudbray",
+      "locations": {}
+    },
+    {
+      "name": "mudsdale",
+      "locations": {}
+    },
+    {
+      "name": "dewpider",
+      "locations": {}
+    },
+    {
+      "name": "araquanid",
+      "locations": {}
+    },
+    {
+      "name": "fomantis",
+      "locations": {}
+    },
+    {
+      "name": "lurantis",
+      "locations": {}
+    },
+    {
+      "name": "morelull",
+      "locations": {}
+    },
+    {
+      "name": "shiinotic",
+      "locations": {}
+    },
+    {
+      "name": "salandit",
+      "locations": {}
+    },
+    {
+      "name": "salazzle",
+      "locations": {}
+    },
+    {
+      "name": "stufful",
+      "locations": {}
+    },
+    {
+      "name": "bewear",
+      "locations": {}
+    },
+    {
+      "name": "bounsweet",
+      "locations": {}
+    },
+    {
+      "name": "steenee",
+      "locations": {}
+    },
+    {
+      "name": "tsareena",
+      "locations": {}
+    },
+    {
+      "name": "comfey",
+      "locations": {}
+    },
+    {
+      "name": "oranguru",
+      "locations": {}
+    },
+    {
+      "name": "passimian",
+      "locations": {}
+    },
+    {
+      "name": "wimpod",
+      "locations": {}
+    },
+    {
+      "name": "golisopod",
+      "locations": {}
+    },
+    {
+      "name": "sandygast",
+      "locations": {}
+    },
+    {
+      "name": "palossand",
+      "locations": {}
+    },
+    {
+      "name": "pyukumuku",
+      "locations": {}
+    },
+    {
+      "name": "type-null",
+      "locations": {}
+    },
+    {
+      "name": "silvally",
+      "locations": {}
+    },
+    {
+      "name": "minior",
+      "locations": {}
+    },
+    {
+      "name": "turtonator",
+      "locations": {}
+    },
+    {
+      "name": "komala",
+      "locations": {}
+    },
+    {
+      "name": "togedemaru",
+      "locations": {}
+    },
+    {
+      "name": "mimikyu",
+      "locations": {}
+    },
+    {
+      "name": "bruxish",
+      "locations": {}
+    },
+    {
+      "name": "drampa",
+      "locations": {}
+    },
+    {
+      "name": "dhelmise",
+      "locations": {}
+    },
+    {
+      "name": "jangmo-o",
+      "locations": {}
+    },
+    {
+      "name": "hakamo-o",
+      "locations": {}
+    },
+    {
+      "name": "kommo-o",
+      "locations": {}
+    },
+    {
+      "name": "tapu-koko",
+      "locations": {}
+    },
+    {
+      "name": "tapu-lele",
+      "locations": {}
+    },
+    {
+      "name": "tapu-bulu",
+      "locations": {}
+    },
+    {
+      "name": "tapu-fini",
+      "locations": {}
+    },
+    {
+      "name": "cosmog",
+      "locations": {}
+    },
+    {
+      "name": "cosmoem",
+      "locations": {}
+    },
+    {
+      "name": "solgaleo",
+      "locations": {}
+    },
+    {
+      "name": "lunala",
+      "locations": {}
+    },
+    {
+      "name": "nihilego",
+      "locations": {}
+    },
+    {
+      "name": "buzzwole",
+      "locations": {}
+    },
+    {
+      "name": "pheromosa",
+      "locations": {}
+    },
+    {
+      "name": "xurkitree",
+      "locations": {}
+    },
+    {
+      "name": "celesteela",
+      "locations": {}
+    },
+    {
+      "name": "kartana",
+      "locations": {}
+    },
+    {
+      "name": "guzzlord",
+      "locations": {}
+    },
+    {
+      "name": "necrozma",
+      "locations": {}
+    },
+    {
+      "name": "magearna",
+      "locations": {}
+    },
+    {
+      "name": "marshadow",
+      "locations": {}
+    },
+    {
+      "name": "poipole",
+      "locations": {}
+    },
+    {
+      "name": "naganadel",
+      "locations": {}
+    },
+    {
+      "name": "stakataka",
+      "locations": {}
+    },
+    {
+      "name": "blacephalon",
+      "locations": {}
+    },
+    {
+      "name": "zeraora",
+      "locations": {}
+    }
+  ]
+}

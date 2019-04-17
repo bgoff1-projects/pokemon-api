@@ -3377,7 +3377,6 @@
         "HGSS",
         "GSC",
         "HGSS",
-        "DP",
         "PT"
       ],
       "number": 175
@@ -3392,7 +3391,6 @@
       "games": [
         "GSC",
         "HGSS",
-        "DP",
         "PT"
       ],
       "number": 176
@@ -6474,7 +6472,7 @@
       "number": 385
     },
     {
-      "name": "deoxys-normal",
+      "name": "deoxys",
       "types": [
         "psychic"
       ],
@@ -6830,7 +6828,7 @@
       "number": 412
     },
     {
-      "name": "wormadam-plant",
+      "name": "wormadam",
       "types": [
         "grass",
         "bug"
@@ -7876,7 +7874,7 @@
       "number": 486
     },
     {
-      "name": "giratina-altered",
+      "name": "giratina",
       "types": [
         "dragon",
         "ghost"
@@ -7929,7 +7927,7 @@
       "number": 491
     },
     {
-      "name": "shaymin-land",
+      "name": "shaymin",
       "types": [
         "grass"
       ],
@@ -8682,7 +8680,7 @@
       "number": 549
     },
     {
-      "name": "basculin-red-striped",
+      "name": "basculin",
       "types": [
         "water"
       ],
@@ -8756,7 +8754,7 @@
       "number": 554
     },
     {
-      "name": "darmanitan-standard",
+      "name": "darmanitan",
       "types": [
         "fire"
       ],
@@ -9933,7 +9931,7 @@
       "number": 640
     },
     {
-      "name": "tornadus-incarnate",
+      "name": "tornadus",
       "types": [
         "flying"
       ],
@@ -9945,7 +9943,7 @@
       "number": 641
     },
     {
-      "name": "thundurus-incarnate",
+      "name": "thundurus",
       "types": [
         "flying",
         "electric"
@@ -9984,7 +9982,7 @@
       "number": 644
     },
     {
-      "name": "landorus-incarnate",
+      "name": "landorus",
       "types": [
         "flying",
         "ground"
@@ -10010,7 +10008,7 @@
       "number": 646
     },
     {
-      "name": "keldeo-ordinary",
+      "name": "keldeo",
       "types": [
         "fighting",
         "water"
@@ -10023,7 +10021,7 @@
       "number": 647
     },
     {
-      "name": "meloetta-aria",
+      "name": "meloetta",
       "types": [
         "psychic",
         "normal"
@@ -10384,7 +10382,7 @@
       "number": 677
     },
     {
-      "name": "meowstic-male",
+      "name": "meowstic",
       "types": [
         "psychic"
       ],
@@ -10419,7 +10417,7 @@
       "number": 680
     },
     {
-      "name": "aegislash-shield",
+      "name": "aegislash",
       "types": [
         "ghost",
         "steel"
@@ -10785,7 +10783,7 @@
       "number": 709
     },
     {
-      "name": "pumpkaboo-average",
+      "name": "pumpkaboo",
       "types": [
         "grass",
         "ghost"
@@ -10797,7 +10795,7 @@
       "number": 710
     },
     {
-      "name": "gourgeist-average",
+      "name": "gourgeist",
       "types": [
         "grass",
         "ghost"
@@ -11167,7 +11165,7 @@
       "number": 740
     },
     {
-      "name": "oricorio-baile",
+      "name": "oricorio",
       "types": [
         "flying",
         "fire"
@@ -11218,7 +11216,7 @@
       "number": 744
     },
     {
-      "name": "lycanroc-midday",
+      "name": "lycanroc",
       "types": [
         "rock"
       ],
@@ -11230,7 +11228,7 @@
       "number": 745
     },
     {
-      "name": "wishiwashi-solo",
+      "name": "wishiwashi",
       "types": [
         "water"
       ],
@@ -11632,7 +11630,7 @@
       "number": 777
     },
     {
-      "name": "mimikyu-disguised",
+      "name": "mimikyu",
       "types": [
         "fairy",
         "ghost"
