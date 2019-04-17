@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import { pokemon } from '../models/pokemon.model';
+import pokemon from '../models/pokemon.model';
 
 export async function getAllPokemon(req: Request, res: Response) {
     res.status(200).json(await pokemon.sort((a, b) => a.pokemonNumber - b.pokemonNumber));
