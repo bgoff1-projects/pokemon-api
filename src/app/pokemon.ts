@@ -2,7 +2,23 @@ import { Request, Response } from 'express';
 import pokemon from '../models/pokemon.model';
 
 export async function getAllPokemon(req: Request, res: Response) {
-    res.status(200).json(await pokemon.sort((a, b) => a.pokemonNumber - b.pokemonNumber));
+  let result = [];
+  const pokes = await pokemon.sort((a, b) => a.pokemonNumber - b.pokemonNumber);
+  if (req.query.image) {
+    for (const poke of pokes) {
+      result.push({
+        name: poke.name,
+        types: poke.types,
+        games: poke.games,
+        generation: poke.generation,
+        number: poke.pokemonNumber,
+        locations: poke.locations
+      });
+    }
+  } else {
+    result = pokemon;
+  }
+    res.status(200).json(result);
 }
 
 export async function getAllPokemon2(req: Request, res: Response) {

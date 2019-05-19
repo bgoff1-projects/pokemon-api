@@ -1,4 +1,5 @@
 import { Pokemon, PokemonFromJSON } from '../models/pokemon.model';
+import { Location } from '../models/location.model';
 import { readFile } from 'fs';
 
 const POKEMON: Pokemon[] = [];
@@ -65,7 +66,6 @@ function addPokemon(data: any) {
 function fixLocation(name: string, locations: Location) {
     for (const item of POKEMON) {
         if (item.name === name) {
-            // @ts-ignore
             item.locations = locations;
             return;
         }
@@ -75,7 +75,13 @@ function fixLocation(name: string, locations: Location) {
 function fixLocations(data: any) {
     const pokemon = JSON.parse(data.toString()).pokemon;
     for (const poke of pokemon) {
-        const name = poke.name[0].toUpperCase() + poke.name.substring(1);
+      let name = '';
+      if (poke.name.includes('alolan')) {
+        const n = poke.name.split(' ');
+        name = n[0].charAt(0).toUpperCase() + n[0].substring(1) + ' ' + n[1].charAt(0).toUpperCase() + n[1].substring(1);
+      } else {
+        name = poke.name[0].toUpperCase() + poke.name.substring(1);
+      }
         fixLocation(name, poke.locations);
     }
 }
