@@ -6,7 +6,6 @@ export interface IPokemon {
     types: string[];
     games: string[];
     generation: number;
-    image: any;
     pokemonNumber: number;
 }
 
@@ -24,7 +23,6 @@ export class Pokemon implements IPokemon {
     types: string[];
     games: string[];
     generation: number;
-    image: any;
     pokemonNumber: number;
     locations: Location;
 
@@ -33,7 +31,6 @@ export class Pokemon implements IPokemon {
         this.types = data.types;
         this.games = data.games;
         this.generation = data.generation;
-        this.image = data.image;
         this.pokemonNumber = data.pokemonNumber;
         this.locations = {}
     }

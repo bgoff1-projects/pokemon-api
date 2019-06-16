@@ -6,7 +6,6 @@ const POKEMON: Pokemon[] = [];
 
 function createPokemon(pokemon: PokemonFromJSON) {
     let name: string;
-    let filePath: string;
     const alolan = pokemon.name.includes('alolan ');
 
     const types = arrayManipulate(pokemon.types);
@@ -17,21 +16,12 @@ function createPokemon(pokemon: PokemonFromJSON) {
     if (alolan) {
         const n = pokemon.name.split(' ');
         name = n[0].charAt(0).toUpperCase() + n[0].substring(1) + ' ' + n[1].charAt(0).toUpperCase() + n[1].substring(1);
-        filePath = `./images/${pokemonNumber}-alola.png`;
     } else {
         name = pokemon.name[0].toUpperCase() + pokemon.name.substring(1);
-        filePath = `./images/${pokemonNumber}.png`;
     }
 
-    readFile(filePath, (err, img) => {
-        if (img) {
-            const image = img.toString('base64');
-            const myPokemon = new Pokemon({ name, types, games, generation, pokemonNumber, image });
-            POKEMON.push(myPokemon);
-        } else {
-            console.log(err);
-        }
-    });
+    const myPokemon = new Pokemon({name, types, games, generation, pokemonNumber });
+    POKEMON.push(myPokemon);
 }
 
 function arrayManipulate(arr: string[]): string[] {
